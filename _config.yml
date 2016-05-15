@@ -1,0 +1,34 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: ""
+
+#gauges_id: 
+#google_analytics_id: UA-50755011-1
+#google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+
+repository: https://github.com/jekyll/jekyll
+help_url: https://github.com/jekyll/jekyll-help
+
+timezone: America/Detroit
+
+collections:
+  docs:
+    output: true
+
+name: GrantLab • Computational Biophysics & Bioinformatics
+description: Computational Biophysics & Bioinformatics
+url: https://jekyllrb.com
+
+twitter:
+  username: jekyllrb
+
+logo: img/bio3d_logo_circle.png
+
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-avatar
