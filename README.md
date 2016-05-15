@@ -1,6 +1,6 @@
 # Example new jekyll based Grant Lab website 
 
-This directory contains the code for the new lab website [thegrantlab.org](http://thegrantlab.org/).
+This directory contains the code for the new lab website [thegrantlab.org](http://thegrantlab.org/). For now it is available only in preview form on  [GitHub](http://bioboot.github.io/newlabsite/).
 
 
 ## Running locally
