@@ -1,4 +1,4 @@
-# Jekyll docs site
+# Example new jekyll based Grant Lab website 
 
 This directory contains the code for the new lab website [thegrantlab.org](http://thegrantlab.org/).
 
