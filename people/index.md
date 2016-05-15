@@ -87,7 +87,7 @@ UROP Undergraduate Student
 
 
 
-### Join Our Team - Open Positions
+### [Join Our Team - Open Positions](#jobs)
 
 There are lots of opportunities to get involved in our work at the ground level!
 

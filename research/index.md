@@ -15,7 +15,7 @@ Our research goals are to advance these efforts to further facilitate the fields
 
 <br/>
 
-### [Molecular Motors & Molecular Switches]()
+### [Molecular Motors & Molecular Switches](#motors)
 
 <h5>Deciphering the physical mechanisms underlying molecular motor and switch function and how their dysfunction is related to disease.</h5>
 
@@ -33,7 +33,7 @@ The molecular motors and switches that we focus on comprise a set of related nuc
 
 <br/>
 
-### [Methods for Structural Bioinformatics & Computer Aided Drug Design]()
+### [Methods for Structural Bioinformatics & Computer Aided Drug Design](#bioinf)
 
 <h5>Integrating protein structural dynamics, evolutionary analysis & structure based drug discovery.</h5>
 
@@ -53,7 +53,7 @@ Motivated by the wide utility and use of Bio3D, together with our own research q
 
 <br/>
 
-### [Recent Publications]()
+### [Recent Publications](#pubs)
 
 *   [Rapid Characterization of Allosteric Networks with Ensemble Normal Mode Analysis](https://www.ncbi.nlm.nih.gov/pubmed/27056373).  
     Yao, Skjærven, **Grant**. (2016)  
