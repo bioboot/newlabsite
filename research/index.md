@@ -7,7 +7,7 @@ Research in the Grant lab focuses on the development and application of state-of
 
 At the interface of biochemistry, biophysics and bioinformatics the unique insight gained from our research is tightly coupled to a wide range of biochemical and biophysical experiments. 
 
-<img src="/img/Fig2_venn_whiteBCK.png" alt="Research Intersection" style="float:left;margin-right: 15px;margin-top: 10px;heigth:245px;width:245px" >
+<img src="{{ "/img/Fig2_venn_whiteBCK.png" | prepend: site.baseurl }}" alt="Research Intersection" style="float:left;margin-right: 15px;margin-top: 10px;heigth:245px;width:245px" >
 
 Using this approach we have recently developed a new class of allosteric Ras & Rho molecular switch inhibitors, reported the first rationally designed faster velocity kinesin motors, demonstrated for the first time that kinesin processivity can be modulated by rational mutation of the motor domain, discovered key atomistic detriments of allosteric activation in G proteins, and developed the Bio3D software package used by thousands of researchers around the world.  
 
@@ -21,7 +21,8 @@ Our research goals are to advance these efforts to further facilitate the fields
 
 A major portion of our work asks about the common and divergent molecular mechanisms of kinesin motors and homologous G proteins switches.  These mechanisms drive the internal coordination, communication and self-organization of eukaryotic cells; and their aberrant activities underlie a wide range of human cancers and neurodegenerative disorders.  
 
-<img src="/img/cell.jpg" alt="Example switches and motors" style="float:left;margin-right:20px;margin-top:15px;height:375px" >
+
+<img src="{{ "/img/cell.jpg" | prepend: site.baseurl }}" alt="Example switches and motors" style="float:left;margin-right:20px;margin-top:15px;height:375px" >
 
 The molecular motors and switches that we focus on comprise a set of related nucleotide binding proteins that coordinate important cell processes including signaling, trafficking, transport, and protein synthesis. Our research aims to decipher the [structural dynamic mechanisms]() by which these fascinating natural nanomachines function and how their dysfunction is related to disease.  
 
