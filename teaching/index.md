@@ -7,7 +7,7 @@ title: Current Courses
 
 ### BIOINF-525: [Foundations of Bioinformatics and Systems Biology](http://bioboot.github.io/bioinf525_w16/) 
 
-I serve as lead instructor and course director for *Foundations of Bioinformatics and Systems Biology* (*BIOINF525*). This course provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins. Offered in winter term each year BIOINF525 is currently comprised of three one credit modules covering:
+I serve as lead instructor and course director for *Foundations of Bioinformatics and Systems Biology* (*BIOINF525*). This course provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins. Offered in the winter term each year BIOINF525 is currently comprised of three one credit modules covering:
 
 1. [Foundations of Bioinformatics](http://bioboot.github.io/bioinf525_w16/module1/); 
 2. [Statistics in Bioinformatics](http://bioboot.github.io/bioinf525_w16/module2/); and 
