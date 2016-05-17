@@ -65,7 +65,7 @@ nav {
   margin-top: 52px;
 
   li {
-    margin-right: 4px;
+    margin-right: 10px;
 
     a {
       @include border-radius(5px);
@@ -386,35 +386,6 @@ footer {
     }
   }
 }
-
-/* gblock - new addition used on home/about page based on article */
-
-
-gblock {
-  background-color: #444;
-  @include border-radius(10px);
-  padding: 20px;
-  margin: 0 10px;
-  @include box-shadow(0 3px 10px rgba(0,0,0,.1));
-  font-size: 16px;
-}
-
-@media (max-width: 480px) {
-  gblock ul { padding-left: 20px; }
-}
-
-@media (max-width: 568px) {
-  gblock { margin: 0; }
-}
-
-@media (min-width: 768px) {
-  gblock {
-    padding: 40px 40px 30px;
-    font-size: 21px;
-  }
-}
-
-
 
 /* Article - Used for both docs and news */
 
