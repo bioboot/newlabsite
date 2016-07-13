@@ -5,6 +5,13 @@ title: Recent Publications
 
 <br/>
 
+*   [Online interactive analysis of protein structure ensembles with Bio3D-web]().  
+    Skjærven, **Jariwala**, **Yao**, **Grant**. (2016)  
+    _Bioinformatics_ 2016 [In Press]  
+    ( Journal | PubMed | PDF | [WebServer](http://thegrantlab.org/bio3d/webapps) )   
+
+<br/>
+
 *   [Rapid characterization of allosteric networks with ensemble normal mode analysis](https://www.ncbi.nlm.nih.gov/pubmed/27056373).  
     **Yao**, Skjærven, **Grant**. (2016)  
     _J Phys Chem B._ 2016 Apr 20. [Epub ahead of print]  
