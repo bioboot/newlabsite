@@ -5,10 +5,10 @@ title: Recent Publications
 
 <br/>
 
-*   [Online interactive analysis of protein structure ensembles with Bio3D-web]().  
+*   [Online interactive analysis of protein structure ensembles with Bio3D-web](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btw482).  
     Skjærven, **Jariwala**, **Yao**, **Grant**. (2016)  
-    _Bioinformatics_ 2016 [In Press]  
-    ( Journal | PubMed | PDF | [WebServer](http://thegrantlab.org/bio3d/webapps) )   
+    _Bioinformatics_ (2016) [_In Press_. Epub ahead of print]  
+    ( [Journal](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btw482) | PubMed | [PDF](http://bioinformatics.oxfordjournals.org/cgi/reprint/btw482) | [WebServer](http://thegrantlab.org/bio3d/webapps) )   
 
 <br/>
 
