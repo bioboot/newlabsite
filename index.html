@@ -82,19 +82,18 @@ overview: true
       <h3><a href="{{ "/people/" | prepend: site.baseurl }}">Lab members</a></h3>
       <img src="{{ "/img/group.png" | prepend: site.baseurl }}" alt="Group Members" style="float:right;margin-right: 15px;margin-top: 10px;heigth:164.5px;width:965px" >
       <p>
-      Here is a place for thumbnail like image slider gallery with links to both the research and gallery pages. Could do this with <a href="http://nanogallery.brisbois.fr">nanogallery</a> perhaps?  <br/><br/>
+      Here is a place for thumbnail like image slider gallery with links to both the research and gallery/movies pages.<br/><br/>
       </p>
 
       {% for gallery in site.data.galleries %}
-        <h1>{{ gallery.description }}</h1>
+        <h3>{{ gallery.description }}</h3>
         <ol>
         {% for image in gallery.images %}
           <li>
             {{ image.text }}<br>
               <a href="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-            <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}">
-        </a>
-        </li>
+            <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}"></a>
+          </li>
         {% endfor %}
         </ol>
       {% endfor %}
