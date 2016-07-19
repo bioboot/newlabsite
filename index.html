@@ -3,6 +3,8 @@ layout: default
 overview: true
 ---
 
+
+
 <section class="intro">
   <div class="grid">
     <div class="unit whole center-on-mobiles">
@@ -82,6 +84,20 @@ overview: true
       <p>
       Here is a place for thumbnail like image slider gallery with links to both the research and gallery pages. Could do this with <a href="http://nanogallery.brisbois.fr">nanogallery</a> perhaps?  <br/><br/>
       </p>
+
+      {% for gallery in site.data.galleries %}
+        <h1>{{ gallery.description }}</h1>
+        <ol>
+        {% for image in gallery.images %}
+          <li>
+            {{ image.text }}<br>
+              <a href="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+            <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}">
+        </a>
+        </li>
+        {% endfor %}
+        </ol>
+      {% endfor %}
     </div>
   </div>
 </section>

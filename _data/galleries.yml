@@ -1,0 +1,14 @@
+- id: gallery1
+  description: This a non working test gallery
+  imagefolder: /img/slider
+  images:
+  - name: page1-1000-full.jpg
+    thumb: page1-1000-thumb.jpg
+    text: The first image.jpg
+  - name: page1-1001-full.jpg
+    thumb: page1-1001-thumb.jpg
+    text: The second image
+  - name: page1-1002-full.jpg
+    thumb: page1-1002-thumb.jpg
+    text: The third image
+
