@@ -15,7 +15,7 @@ I serve as lead instructor and course director for *Foundations of Bioinformatic
 
 **Wondering why you should take this course?** See the praise for the 2015 class from [official student evaluations](http://bioboot.github.io/bioinf525_w16/praise/) and visit the [2016 course website](http://bioboot.github.io/bioinf525_w16/) to find out more.
 
-<br/>
+<br>
 
 ### BIOINF-606: [Introduction to Biocomputing](http://bioboot.github.io/web-2015/) 
 
@@ -28,7 +28,11 @@ See the [student feedback for the 2015 class](https://docs.google.com/forms/d/1v
 <br/>
 
 ### BIOINF-575: [Programming Laboratory in Bioinformatics](http://www.ccmb.med.umich.edu/node/41) 
-*BIOINF575* introduces general computer programming, relational databases, and statistical programming as tools to solve problems in bioinformatics data analysis. I currently teach four sessions in this course covering [reproducible research and version control systems]() and [social coding best practices with GitHub and BitBucket]().
+*BIOINF575* introduces general computer programming, relational databases, and statistical programming as tools to solve problems in bioinformatics data analysis. I currently teach four sessions in this course covering:
+
+- [Reproducible research and version control systems]({{ site.baseurl }}//teaching/material/01_git_intro_bioinf575_w16-large.pdf), 
+- [Social coding best practices with GitHub and BitBucket]({{ site.baseurl }}//teaching/material/02_github_intro_bioinf575_w16.pdf) 
+- [Introduction to the R language and environment for data analysis]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf).
 
 <br/>
 
@@ -40,10 +44,17 @@ This one week hands-on workshop for graduate students and faculty introduced cut
 ### BIOINF-527: [Introduction to Bioinformatics](http://www.ccmb.med.umich.edu/node/40)
 I guest lecture for *BIOINF527* covering the following topics:
 
-- [Structural Bioinformatics]()
-- [Protein Structure Visualization and Small Molecule Docking]() (PDF) 
-- [Advanced Database Searching: Sequence Patterns, Profiles and Hidden Markov Models]() 
+- [Introduction to Structural Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
+- [Protein Structure Visualization and Small Molecule Docking]({{ site.baseurl }}//teaching/material/Structural_Bioinformatcs_Lab.pdf) (PDF) 
+- [Advanced Database Searching]({{ site.baseurl }}//teaching/material/Lecture_13_HMMs.pdf) (PDF) 
+- [Sequence Patterns, Profiles and Hidden Markov Models]({{ site.baseurl }}//teaching/material/Barry_Lecture14_HMMs.pdf) (PDF)  
+- [Molecular Bioinformatics (2013)]({{ site.baseurl }}//teaching/material/Intro_Structural_Bioinformatics_Barry.pdf) (PDF) 
+- [Introduction to Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-1_525_W16_small.pdf) (PDF)
+- [Pairwise Sequence Alignment and Database Searching]({{ site.baseurl }}//teaching/material/lecture1-2_525_W16_small.pdf) (PDF)
+- [Introduction to Structural Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
 
+<br/>
+[![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
 
 <br/>
 <div class="note">
@@ -79,8 +90,9 @@ There are also weekly homework assignments and regular quizzes within each video
 
 <br/>
 
-### BIOINF-800: [Computational Biophysics & Structure Based Drug Discovery]() 
-This graduate-level seminar course will walk students through the major techniques of biomolecular simulation and computer-aided drug design. This will include application of massively parallel molecular dynamics simulations and associated analysis techniques to enable new discoveries within the vast quantity of digital data, such as finding new potential drug leads through virtual screening and small molecule docking. Lectures on course concepts will be closely combined with hands-on tutorials that allow the practical application of computational methods and statistical data analysis in a project-based format. Students will be granted access to the national supercomputers centers as well as local high performance computing cluster resources to run their simulations and analyze the resulting data.
+### BIOINF-800: [Computational Biophysics & Structure Based Drug Discovery]({{ site.baseurl }}//teaching/material/example_new_course.pdf) 
+This graduate-level seminar course will walk students through the major techniques of biomolecular simulation and computer-aided drug design. This will include application of massively parallel molecular dynamics simulations and associated analysis techniques to enable new discoveries within the vast quantity of digital data, such as finding new potential drug leads through virtual screening and small molecule docking. Lectures on course concepts will be closely combined with hands-on tutorials that allow the practical application of computational methods and statistical data analysis in a project-based format. Students will be granted access to the national supercomputers centers as well as local high performance computing cluster resources to run their simulations and analyze the resulting data.  
+[Read More >>]({{ site.baseurl }}//teaching/material/example_new_course.pdf)
 
 
 <br/>
@@ -91,26 +103,51 @@ This graduate-level seminar course will walk students through the major techniqu
 
 Below you will find previous course details along with links to select lecture slides, workshop material and software tutorials.
 
-### [Advances in Molecular Dynamics of Biomolecules](http://ccbb.jnu.ac.in/advmdbio/)
+<br/>
+
+#### [Bio3D: Interactive Tools for Structural Bioinformatics]({{ site.baseurl }}//teaching/material/Barry_Bio3D_intro.pdf)
+Invited [lecture]({{ site.baseurl }}//teaching/material/Barry_Bio3D_intro.pdf) and hands-on [tutoral]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf) at the University of Bergen, Norway (Spring 2015). 
+
+<br/>
+
+#### [Structural Bioinformatics]({{ site.baseurl }}//teaching/material/Barry_StruBioinf_v2_15.pdf) (PDF)
+
+#### [Advances in Molecular Dynamics of Biomolecules](http://ccbb.jnu.ac.in/advmdbio/)
 Four lectures with integrated lab sessions at JNU (Jawaharlal Nehru University) and University of Delhi, India. (Fall 2013).
 
-### [Special Topics in Biological Physics]()
+<br/>
+
+#### [Special Topics in Biological Physics]()
 Natures Molecular Machines - Spring 2014.
 
-### [An introduction to molecular motors]()
+<br/>
+
+#### [Introduction to Molecular Motors]({{ site.baseurl }}//teaching/material/handout_motors_CSUSM_11.pdf)
 California State University, San Marcos, USA, 2011
 
-### [Electrostatics and diffusion]()
+<br/>
+
+#### [Molecular Motors and Electrostatics](http://nbcr.ucsd.edu/wiki/index.php/SI2010_Special_Topics_on_Emerging_Technologies)
 National Biomedical Computation Resource Summer Institute, San Diego Supercomputer Center, USA, 2010.
 
-### [Protein form and function in cytoskeletal transport systems]()
+<br/>
+
+#### [Electrostatics and Diffusion](http://nbcr.ucsd.edu/?page_id=73)
+National Biomedical Computation Resource Summer Institute, San Diego Supercomputer Center, USA, 2010.
+
+<br/>
+
+#### [Protein Form and Function in Cytoskeletal Transport Systems]({{ site.baseurl }}//teaching/material/sanmarcos_motors.pdf)
 California State University, San Marcos, USA, 2009
 University of California, San Diego, USA, 2008
 
-### [Advanced methods for biomolecular simulation](http://www.ccpb.ac.uk/)
+<br/>
+
+#### [Advanced Methods for Biomolecular Simulation](http://www.ccpb.ac.uk/)
 CCPB training workshop, University of Nottingham, UK, 2007.
 
-Additional postgraduate level guest lectures on **Computational Chemistry**, **Biomolecular Structure**, **Chemical Equilibria**, and **Protein Form and Function**.
+<br/>
 
+Additional postgraduate level guest lectures on [**The R language**]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf), [**Why do we use UNIX?**]({{ site.baseurl }}//teaching/material/slides_day1-1_unix-motivation.pdf), [**working with UNIX**]({{ site.baseurl }}//teaching/material/slides_day1-1_unix-motivation.pdf), **Computational Chemistry**, **Biomolecular Structure**, **Chemical Equilibria**, and **Protein Form and Function**.
 
 
