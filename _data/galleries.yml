@@ -1,5 +1,5 @@
 - id: gallery1
-  description: Gallery - should use Lightbox
+  description: Gallery - uses Lightbox now
   imagefolder: /img/slider
   images:
   - name: page1-1000-full.jpg

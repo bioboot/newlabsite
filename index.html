@@ -86,16 +86,11 @@ overview: true
       </p>
 
       {% for gallery in site.data.galleries %}
-        <h3>{{ gallery.description }}</h3>
-        <ol>
+      <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a>
         {% for image in gallery.images %}
-          <li>
-            {{ image.text }}<br>
               <a href="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
             <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}"></a>
-          </li>
         {% endfor %}
-        </ol>
       {% endfor %}
     </div>
   </div>
