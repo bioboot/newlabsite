@@ -89,8 +89,10 @@ overview: true
       <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a>
         {% for image in gallery.images %}
               <a href="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-            <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}"></a>
+            <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}" class="imghover"/></a>
         {% endfor %}
+      <br/>
+      <a href="{{ gallery.id }}">View more</a>
       {% endfor %}
     </div>
   </div>
