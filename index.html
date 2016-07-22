@@ -88,12 +88,22 @@ overview: true
       {% for gallery in site.data.galleries %}
       <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a>
         {% for image in gallery.images %}
-              <a href="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+              <a href="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.name }}" class="fancybox" rel="{{ gallery.id }}" title="{{ image.text }}">
             <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}" class="imghover"/></a>
         {% endfor %}
       <br/>
       <a href="{{ gallery.id }}">View more</a>
       {% endfor %}
+      <br/>
+      <br/>
+      <div id="pubvids">
+      {% for gallery in site.data.videos %}
+        <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a>
+        {% for video in gallery.videos %}
+        <a class="fancybox-media" rel="{{ gallery.id }}" href="{{ video.url }}" title="{{ video.text }}">Replace with a thumbnail</a>
+        {% endfor %}
+      {% endfor %}
+      </div>
     </div>
   </div>
 </section>

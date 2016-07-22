@@ -10,7 +10,7 @@ title: Gallery
       {% for image in site.static_files %}
           {% if image.path contains 'img/slider' %}
               {% unless image.path contains 'thumb' %}
-                  <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="pubimg">
+                  <a href="{{ site.baseurl }}{{ image.path }}" class="fancybox" rel="pubimg">
                   <img src="{{ site.baseurl }}{{ image.path }}" class='resizegallery imghover' alt="image"/>
                   </a>
               {% endunless %}
