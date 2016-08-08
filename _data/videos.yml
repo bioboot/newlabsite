@@ -3,22 +3,22 @@
   imagefolder: /img/videos
   videos:
   - url: http://vimeo.com/10426396
-    thumb: page1-1000-thumb.jpg
+    thumb: thumb.ras.jpg
     text: Ras accelerated molecular dynamics simulation
   - url: http://vimeo.com/10537639
-    thumb: page1-1001-thumb.jpg
+    thumb: thumb.mt.electro.jpg
     text: Microtubule Electrostatics
   - url: http://vimeo.com/5239966
-    thumb: page1-1001-thumb.jpg
+    thumb: thumb.kin.electro.jpg
     text: Kinesin electrostatics
   - url: http://vimeo.com/5241587
-    thumb: page1-1001-thumb.jpg
+    thumb: thumb.kin.electro.cons.jpg
     text: Electrostatic Conservation within the Kinesin Family
   - url: http://vimeo.com/17350409
-    thumb: page1-1001-thumb.jpg
+    thumb: thumb.drug.screen.jpg
     text: Computational Drug Screening
   - url: http://vimeo.com/10537422
-    thumb: page1-1001-thumb.jpg
+    thumb: thumb.channel.jpg
     text: Na+/Cl- dependent transporter
 
 
