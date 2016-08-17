@@ -117,6 +117,11 @@ Four lectures with integrated lab sessions at JNU (Jawaharlal Nehru University) 
 
 <br/>
 
+#### [RStudio Git and GitHub hands-on lecture]({{ site.baseurl }}//teaching/material/Git_R_summer_camp.pdf)
+Summer camp for high-school students (miRcore) - 17 Aug 2016.
+
+<br/>
+
 #### [Special Topics in Biological Physics]()
 Natures Molecular Machines - Spring 2014.
 
