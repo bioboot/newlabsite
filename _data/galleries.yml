@@ -1,14 +1,19 @@
 - id: gallery1
-  description: Gallery
+  description: Image and Movie Gallery
   imagefolder: /img/slider
   images:
-  - name: page1-1000-full.jpg
-    thumb: page1-1000-thumb.jpg
-    text: Binding sites of kinesin about tubulin
   - name: page1-1001-full.jpg
     thumb: page1-1001-thumb.jpg
     text: Screenshot, working with Bio3D 2.0
-  - name: page1-1002-full.jpg
-    thumb: page1-1002-thumb.jpg
+  - name: page1-1023-full.jpg
+    thumb: page1-1023-thumb.jpg
     text: Surface mapped electrostatic features of select kinesin familes
+  - name: page1-1000-full.jpg
+    thumb: page1-1000-thumb.jpg
+    text: Binding sites of kinesin about tubulin
+  - name: page1-1003-full.jpg
+    thumb: page1-1003-thumb.jpg
+    text: Binding sites of kinesin about tubulin
+
+
 

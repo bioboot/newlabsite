@@ -1,5 +1,5 @@
 - id: gallery2
-  description: Videos
+  description: Movie and Image Gallery
   imagefolder: /img/videos
   videos:
   - url: http://vimeo.com/10426396
@@ -11,14 +11,9 @@
   - url: http://vimeo.com/5239966
     thumb: thumb.kin.electro.jpg
     text: Kinesin electrostatics
-  - url: http://vimeo.com/5241587
-    thumb: thumb.kin.electro.cons.jpg
-    text: Electrostatic Conservation within the Kinesin Family
   - url: http://vimeo.com/17350409
     thumb: thumb.drug.screen.jpg
     text: Computational Drug Screening
-  - url: http://vimeo.com/10537422
-    thumb: thumb.channel.jpg
-    text: Na+/Cl- dependent transporter
+
 
 

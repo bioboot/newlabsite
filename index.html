@@ -92,23 +92,24 @@ overview: true
             <img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ image.thumb }}" class="imghover"/></a>
         {% endfor %}
       <br/>
-      <a href="{{ gallery.id }}">View more</a>
+      <a href="{{ gallery.id }}">View more images &rarr;</a>
       {% endfor %}
       <br/>
       <br/>
       <div id="pubvids">
       {% for gallery in site.data.videos %}
       <!-- <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a> -->
-        <a href="#"><h3>{{ gallery.description }}</h3></a>
+      <!--   <a href="#"><h3>{{ gallery.description }}</h3></a> -->
         {% for video in gallery.videos %}
         <a class="fancybox-media" rel="{{ gallery.id }}" href="{{ video.url }}" title="{{ video.text }}"><img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ video.thumb }}" class="resizegallery imghover"/></a>
         {% endfor %}
+      <br/>
+      <a href="https://vimeo.com/grantlab/videos">View more movies &rarr;</a>
       {% endfor %}
       </div>
     </div>
   </div>
 </section>
-
 
 
 <section class="free-hosting">
