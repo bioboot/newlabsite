@@ -1,37 +1,43 @@
 <div class="unit one-fifth hide-on-mobiles">
   <aside>
-    <h4>Group News</h4>
+    <h4>Grant Lab</h4>
     <ul>
       <li class="{% if page.title == 'News' %}current{% endif %}">
-        <a href="/news/">All News</a>
+        <a href="{{ "/news/" | prepend: site.baseurl }}">People</a>
       </li>
       <li class="{% if page.title == 'Blog' %}current{% endif %}">
-        <a href="/news/blog/">Blog posts</a>
+        <a href="{{ "/people/" | prepend: site.baseurl }}">Alumni</a>
       </li>
       <li class="{% if page.title == 'Releases' %}current{% endif %}">
-        <a href="/news/releases/">Bio3D Releases</a>
+        <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">Open Positions</a>
       </li>
+      <li class="{% if page.title == 'Releases' %}current{% endif %}">
+        <a href="{{ "/news/location/" | prepend: site.baseurl }}">Lab Location</a>
+      </li>
+
     </ul>
-    <h4>Blog Posts</h4>
+    <h4>Resources</h4>
+    <ul>
+      <li class="{% if page.title == 'News' %}{% endif %}">
+        <a href="{{ "/news/"  | prepend: site.baseurl }}">All News & Posts »</a>
+      </li>
+            <li class="{% if page.title == 'Releases' %}{% endif %}">
+        <a href="{{ "/news/releases/" | prepend: site.baseurl }}">Bio3D News</a>
+      </li>
+      <li class="{% if page.title == 'Blog' %}{% endif %}">
+        <a href="{{ "/news/blog/" | prepend: site.baseurl }}">HowTOs</a>
+      </li>
+
+    </ul>
+    <h4>Recent Posts</h4>
     <ul>
         {% for post in site.posts %}
         {% unless post.categories contains 'release' %}
         <li class="{% if page.title == post.title %}current{% endif %}">
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
         {% endunless %}
         {% endfor %}
-    </ul>
-    <h4>Bio3D News</h4>
-    <ul>
-      {% for post in site.categories.release limit:5 %}
-      <li class="{% if page.title == post.title %}current{% endif %}">
-        <a href="{{ post.url }}">Version {{ post.version }}</a>
-      </li>
-      {% endfor %}
-      <li>
-        <a href="/docs/history/">History »</a>
-      </li>
     </ul>
 
   </aside>
