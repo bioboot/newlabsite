@@ -6,7 +6,7 @@
         <a href="{{ "/news/" | prepend: site.baseurl }}">People</a>
       </li>
       <li class="{% if page.title == 'Blog' %}current{% endif %}">
-        <a href="{{ "/people/" | prepend: site.baseurl }}">Alumni</a>
+        <a href="{{ "/news/2016/04/18/grant-lab-alumni/" | prepend: site.baseurl }}">Alumni</a>
       </li>
       <li class="{% if page.title == 'Releases' %}current{% endif %}">
         <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">Open Positions</a>
@@ -18,11 +18,11 @@
     </ul>
     <h4>Resources</h4>
     <ul>
-      <li class="{% if page.title == 'News' %}{% endif %}">
-        <a href="{{ "/news/"  | prepend: site.baseurl }}">All News & Posts »</a>
+      <li class="{% if page.title == 'Posts' %}current{% endif %}">
+        <a href="{{ "/news/all.html"  | prepend: site.baseurl }}">All News & Posts »</a>
       </li>
             <li class="{% if page.title == 'Releases' %}{% endif %}">
-        <a href="{{ "/news/releases/" | prepend: site.baseurl }}">Bio3D News</a>
+        <a href="{{ "/news/bio3d_news/" | prepend: site.baseurl }}">Bio3D News</a>
       </li>
       <li class="{% if page.title == 'Blog' %}{% endif %}">
         <a href="{{ "/news/blog/" | prepend: site.baseurl }}">HowTOs</a>
