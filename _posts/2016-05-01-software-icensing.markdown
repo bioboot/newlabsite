@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Tips on Software Licensing'
+title: 'Software Licensing'
 date: 2016-04-18 10:26:16 -0700
 author: barry
 categories: [advise]
