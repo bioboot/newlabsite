@@ -109,6 +109,37 @@ USA
 </div>
 </article>
 
-{% for post in site.posts %}
-  {% include news_item.html %}
-{% endfor %}
+<article>
+    <h4>Listing of Recent Posts</h4>
+    <ul>
+        {% for post in site.posts %}
+        
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+        
+        {% endfor %}
+
+        <li>
+          <a href="{{ "/news/all.html"  | prepend: site.baseurl }}">All News & Posts »</a>
+        </li>
+
+    </ul>
+
+<p><br /></p>
+
+<hr />
+<p><br /></p>
+
+<h3 id="join-our-team---open-positionsjobs"><a href="#jobs">Join Our Team - Open Positions</a></h3>
+
+<p>There are lots of opportunities to get involved in our work at the ground level!</p>
+
+<p>In addition to postdoctoral openings, we are very interested in hearing from energetic University of Michigan graduate students and undergraduate students who would like to learn more about our new research group. Several rotation positions will be available for 2012/2013.</p>
+
+<p>Interested UM freshman and sophomores should apply to work in the lab via the UROP program.</p>
+
+<p>Prospective graduate students and postdocs should refer to the Jobs page for further details or contact Professor Grant directly (<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#106;&#103;&#114;&#097;&#110;&#116;&#064;&#117;&#109;&#105;&#099;&#104;&#046;&#101;&#100;&#117;">&#098;&#106;&#103;&#114;&#097;&#110;&#116;&#064;&#117;&#109;&#105;&#099;&#104;&#046;&#101;&#100;&#117;</a>).</p>
+
+</article>
+

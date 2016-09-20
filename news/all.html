@@ -5,6 +5,20 @@ permalink: /news/all
 author: all
 ---
 
+<article>
+	<h3>All News & Posts</h3>
+
+    <ul>
+        {% for post in site.posts %}
+        
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+        
+        {% endfor %}
+
+    </ul>
+</article>
 
 {% for post in site.posts %}
   {% include news_item.html %}
