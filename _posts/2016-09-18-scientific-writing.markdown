@@ -25,7 +25,7 @@ As a graduate student or postdoc you should always be writing something (e.g. dr
 - [Scientific English](http://thegrantlab.pbworks.com/w/page/59031389/ScientificEnglish) 
 - [10 things you need to know about publishing](http://thegrantlab.pbworks.com/Writing_tips)
 - [Advice from a scientific editor](http://thegrantlab.pbworks.com/Editor_Advice)
-- [Figures and graphics](http://www.plosone.org/static/figureGuidelines#figures)  
+- [Formating figures and graphics](http://www.plosone.org/static/figureGuidelines#figures)  
 
 <br />
 

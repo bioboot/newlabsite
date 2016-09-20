@@ -11,7 +11,7 @@ categories: [lab]
 Decide what are the key conclusions of your work and state them clearly and succinctly in the Abstract and in the Discussion and/or Conclusions sections. Far too many papers say that "important insights were gained", but do not explicitly state the insights. This leaves the reader suspicious that no insights were, in fact, gained.
 
 <br />
- 
+
 #### Be mindful of the context of your work. 
 A research project takes place within a specific intellectual and social setting, and a sophisticated paper is written with this context in mind. The consequences include exploration, brief or lyrical, of potential implications of your results; acknowledgement, muted or forceful, of related controversies; and well-chosen terminology.
 
@@ -50,10 +50,14 @@ Color figures are appealing but may be costly to print and they do not add genui
 #### Cite prior work
 For the sake of documentation, not to mention courtesy to your colleagues, almost every statement of scientific fact -- or supposed fact -- in a paper should be accompanied by a citation. Exceptions are typically made for time-honored textbook material, such as Coulomb's law, or possibly other information that may be regarded as generally known; but when in doubt, cite.
  
-##### Provide supplementary materials. 
+<br />
+ 
+#### Provide supplementary materials. 
 A paper is supposed to allow the reader to reproduce your work. This ideal is not always achievable, but providing supplementary files of data, structural information, methods, graphs, etc., can go a long way. It is also an act of good scientific citizenship.
  
-##### Working Drafts
+<br />
+ 
+#### Working Drafts
 Put the date below the title and author list each draft of a work, so that a reader with two versions of it can be sure of reviewing the latest one. Include page numbers so colleagues and referees can easily reference sections of section when discussing the paper with you. Make sure Figure and Table number matches the text correctly, even in a rough draft, so that your colleagues do not waste time struggling to determine which figure or table you are describing in the text.
  
 Use fonts and line spacing that are easy on the eyes. These are simple things that take only a few extra minutes when preparing your manuscript, but they can make a big difference to the experience of reading it. Remember: the idea is to make the editor's (and reviewers') life easier, not harder.

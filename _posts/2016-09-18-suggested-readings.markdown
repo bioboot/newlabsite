@@ -5,7 +5,28 @@ date: 2016-09-18 10:26:16 -0700
 author: barry
 categories: [lab]
 ---
- 
+
+Below you will find a subjective list of the top journals that I recommend you monitor, and of course aim to contribute to.  
+
+I suggest you subscribe to PubMed feed(s) from at least the **vital** journals in each topic area along with specific keywords relevant to your research. This should provide you with weekly updates that you can peruse for papers of interest.  
+
+If you are just starting out you can begin with monitoring the listed vital [Science General](#science-general) journals (*i.e.*, Science/Nature/Cell/PLoS Biology/PNAS, plus PLoS Computational Biology/Biophys J and Bioinformatics). If you see that you can handle the inflow of updates (and usefully read some papers) for about 2 months - then gradually increase the number of journals/keywords you follow until you have a good covering of the journals listed below.
+
+Also consider setting up *citation alerts* for new papers that cite a particular key article you are interested in. There are a number of ways to do this. One is to find the paper in the ISI Web of Knowledge, and then create a ‘Citation alert’, which can be directed to your RSS.
+
+> Roughly one half of your time should be spent reading. Half of your reading should be immediately related to your current research; the other half should be potentially related to your current or future research. You should learn how to read journals to extract the most useful information in the least time.
+
+<br />
+
+##### Topic Areas:
+- [Biophysical Chemistry and Bioinformatics](#biophysical-chemistry--bioinformatics)
+- [General Chemistry](#general-chemistry)
+- [Chemical Physics](#chemical-physics)
+- [Science General](#science-general)
+- [Books](#suggested-molecular-biophysics-books)
+
+<br />
+
 ### BIOPHYSICAL CHEMISTRY & BIOINFORMATICS
 
 #### Vital
@@ -42,6 +63,7 @@ categories: [lab]
 - Systems Biology  
  
 #### Worth Considering
+- BMC Bioinformatics
 - Comp. Biol. & Chem.  
 - Chem. & Biol.   
 - Methods in Enzymol.  
@@ -99,7 +121,7 @@ categories: [lab]
  
 <br />
 
-### OTHER
+### Science General
 
 #### Vital
 - Nature  
@@ -128,6 +150,7 @@ categories: [lab]
 
  
 ### Worth Considering
+- PLoS One  
 - J. Mol. Graph. Model
 - Multiscale Modeling & Simulation (SIAM)
  
