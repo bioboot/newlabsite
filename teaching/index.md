@@ -17,13 +17,13 @@ I serve as lead instructor and course director for *Foundations of Bioinformatic
 
 <br>
 
-### BIOINF-606: [Introduction to Biocomputing](http://bioboot.github.io/web-2015/) 
+### BIOINF-606: [Introduction to Biocomputing](http://bioboot.github.io/web-2016/) 
 
 I serve as a principal instructor and co-course director for *Introduction to Biocomputing* (*BIOINF606*). This hands-on one week course introduces new graduate students to computational tools, techniques and best practices that foster reproducible research in bioinformatics, genome informatics and biostatistics.
 
 Offered at the start of the fall term each year, major concepts and tools covered include the unix system, version control, data management, software compilation, task automation and cluster computing. 
 
-See the [student feedback for the 2015 class](https://docs.google.com/forms/d/1vJTt7ee--aNluY5tu7JazF_W3TSB0OzwFzT5SK_JD30/viewanalytics#start=publishanalytics) and visit the [2015 course website](http://bioboot.github.io/web-2015/) to find out more.
+See the [student feedback for the 2015 class](https://docs.google.com/forms/d/1vJTt7ee--aNluY5tu7JazF_W3TSB0OzwFzT5SK_JD30/viewanalytics#start=publishanalytics) and visit the [2016 course website](http://bioboot.github.io/web-2016/) to find out more.
 
 <br/>
 
