@@ -83,7 +83,16 @@ The lab has a reference site called CiteUlike. Group members add manuscripts and
 The group maintains several mailing lists in addition to departmental and seminar lists - ask Barry how to be added to these lists.
 Please make sure you are signed up for our main group mailing list ( thegrantlab <at> umich.edu ). Again please ask Barry or send a mail to the mailing list for help with this. 
  
-<br /> 
-  
+<br />
+
+### Open Door Policy
+The lab operates an open door policy - if an office door is open then all lab members are encouraged to stop by whenever they feel the need to meet and ask questions, discuss suggestions, and address problems or concerns. If a door is closed it usually means that I am on the phone or in a meeting or just not there. If you are finding it hard to find me then please send an email to find a good time to meet.
+
+<br />
+
 ### Basic survival through common sense and courtesy 
 Our lab has a dynamic that is fairly unique, in that people tend to work both collaboratively and independently. Practically, this means that everyone is equal, and should be treated as such. 
+
+<br />
+Happy Researching!
+<br />
