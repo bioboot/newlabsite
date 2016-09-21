@@ -1,8 +1,14 @@
 <div class="docs-nav-mobile unit whole show-on-mobiles">
   <select onchange="if (this.value) window.location.href=this.value">
     <option value="">Navigate the blog…</option>
-    <option value="/news/">Home</option>
-    <optgroup label="v1.x">
+    <option value="{{ site.baseurl }}">Home</option>
+    <option value="{{ "/news/" | prepend: site.baseurl }}">People</option>
+    <option value="{{ "/news/2016/04/18/grant-lab-alumni/" | prepend: site.baseurl }}">Alumni</option>
+    <option value="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">Jobs</option>
+    <option value="{{ "/news/location/" | prepend: site.baseurl }}">Location</option>
+    <option value="{{ "/news/all.html"  | prepend: site.baseurl }}">All News & Posts</option>
+
+    <optgroup label="Recent Posts">
       {% for post in site.posts %}
       <option value="{{ post.url }}">{{ post.title }}</option>
       {% endfor %}
