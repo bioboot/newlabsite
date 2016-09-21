@@ -48,7 +48,8 @@ overview: true
       </p>
     
     </div>
-    <div class="clear"></div>
+    <!--<div class="clear"></div> -->
+    <div style="clear:both"> <br /> </div>
   </div>
 </section>
 
@@ -74,7 +75,48 @@ overview: true
         <div class="clear"></div>
       </article>
 
+    <div style="clear:both"> <br /> </div>
+
     </div>
+  </div>
+</section>
+
+<section class="quickstart">
+  <div class="grid">
+    <div class="unit golden-small center-on-mobiles">
+      <h3><a href="{{ "/news/" | prepend: site.baseurl }}">Lab Information</a></h3>
+      <p>
+      The Grant lab is part of the Department of <a>Computational Medicine and Bioinformatics</a> at the <a>University of Michigan</a>, Ann Arbor.
+      </p> 
+
+      <p>
+      <ul>
+        <li>
+          <a href="{{ "/news/" | prepend: site.baseurl }}">People &rarr;</a>
+        </li>
+
+        <li>
+          <a href="{{ "/news/all.html" | prepend: site.baseurl }}">News & blog posts &rarr;</a>
+        </li>
+
+        <li>
+          <a href="{{ "/news/location/" | prepend: site.baseurl }}">Location &rarr;</a>
+        </li>
+
+        <li>
+          <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">Openings &rarr;</a>
+        </li> 
+      </ul>
+      </p>
+
+    </div>
+
+    <div class="unit golden-large code">
+    
+    <img src="{{ "/img/group_pic_med_gray.png" | prepend: site.baseurl }}" alt="Group Members" style="float:right;margin-right: 15px;margin-top: 10px" >
+    </div>
+    <div class="clear"></div>
+
   </div>
 </section>
 
@@ -82,12 +124,14 @@ overview: true
 <section class="features">
   <div class="grid">
     <div class="unit whole center-on-mobiles">
-      <br/>
-      <h3><a href="{{ "/people/" | prepend: site.baseurl }}">Lab members</a></h3>
+    <!--  <br/>
+      <h3><a href="{{ "/news/" | prepend: site.baseurl }}">Lab members</a></h3>
       <img src="{{ "/img/group.png" | prepend: site.baseurl }}" alt="Group Members" style="float:right;margin-right: 15px;margin-top: 10px;heigth:164.5px;width:965px" >
       <p>
       Here is a place for thumbnail like image slider gallery with links to both the research and gallery/movies pages.<br/><br/>
       </p>
+    -->
+
 
       {% for gallery in site.data.galleries %}
       <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a>
@@ -98,22 +142,31 @@ overview: true
       <br/>
       <a href="{{ gallery.id }}">View more images &rarr;</a>
       {% endfor %}
+
+      <!--<div style="clear:both"></div> -->
+
       <br/>
       <br/>
+
       <div id="pubvids">
       {% for gallery in site.data.videos %}
-      <!-- <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a> -->
-      <!--   <a href="#"><h3>{{ gallery.description }}</h3></a> -->
+        <!-- <a href="{{ gallery.id }}"><h3>{{ gallery.description }}</h3></a> -->
+        <!--   <a href="#"><h3>{{ gallery.description }}</h3></a> -->
         {% for video in gallery.videos %}
-        <a class="fancybox-media" rel="{{ gallery.id }}" href="{{ video.url }}" title="{{ video.text }}"><img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ video.thumb }}" class="resizegallery imghover"/></a>
+          <a class="fancybox-media" rel="{{ gallery.id }}" href="{{ video.url }}" title="{{ video.text }}"><img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ video.thumb }}" class="resizegallery imghover"/></a>
         {% endfor %}
-      <br/>
-      <a href="https://vimeo.com/grantlab/videos">View more movies &rarr;</a>
+        <br/>
+        <a href="https://vimeo.com/grantlab/videos">View more movies &rarr;</a>
       {% endfor %}
       </div>
+
+      <div style="clear:both"> <br /><br /><br /> </div>
+    
     </div>
   </div>
+  
 </section>
+
 
 
 <section class="free-hosting">
@@ -126,9 +179,9 @@ overview: true
             <h2 class="center-on-mobiles"><strong>Contact</strong></h2>
 
             <p>
-            There are lots of opportunities to get involved in our work! In addition to <a href="{{ "/people/index.html#jobs" | prepend: site.baseurl }}">current openings</a>, we are interested in hearing from energetic University of Michigan graduate and undergraduate students who would like to learn more about our research. Prospective postdocs and students should contact Professor Grant directly.
+            There are lots of opportunities to get involved in our work! In addition to <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}" | prepend: site.baseurl }}">current openings</a>, we are interested in hearing from energetic University of Michigan graduate and undergraduate students who would like to learn more about our research. Prospective postdocs and students should contact Professor Grant directly.
             </p>
-            <a href="{{ "/people/index.html#jobs" | prepend: site.baseurl }}">Current Openings &rarr;</a>
+            <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">Current Openings &rarr;</a>
 
           </div>
 
