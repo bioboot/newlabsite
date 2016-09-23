@@ -48,7 +48,7 @@ A brief sampling of [images](#image) and [animations](#movie) arising from our r
 <br /><br />
 
   <iframe src="https://player.vimeo.com/video/27214521?loop=1&byline=0" width="640" height="188" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/27214521">Integrated Biomolecular Trajectory Analysis with Bio3D, TimeScapes and VMD</a>.</p>
+  <p><a href="https://vimeo.com/27214521">Integrated Biomolecular Trajectory Analysis with Bio3D</a>.</p>
 
 <br /><br />
 
