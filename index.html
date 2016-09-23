@@ -156,7 +156,7 @@ overview: true
           <a class="fancybox-media" rel="{{ gallery.id }}" href="{{ video.url }}" title="{{ video.text }}"><img src="{{ site.baseurl }}{{ gallery.imagefolder }}/{{ video.thumb }}" class="resizegallery imghover"/></a>
         {% endfor %}
         <br/>
-        <a href="https://vimeo.com/grantlab/videos">View more movies &rarr;</a>
+        <a href="{{ "/gallery1/" | prepend: site.baseurl }}#movie">View more movies &rarr;</a>
       {% endfor %}
       </div>
 
@@ -179,7 +179,7 @@ overview: true
             <h2 class="center-on-mobiles"><strong>Contact</strong></h2>
 
             <p>
-            There are lots of opportunities to get involved in our work! In addition to <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}" | prepend: site.baseurl }}">current openings</a>, we are interested in hearing from energetic University of Michigan graduate and undergraduate students who would like to learn more about our research. Prospective postdocs and students should contact Professor Grant directly.
+            There are lots of opportunities to get involved in our work! In addition to <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">current openings</a>, we are interested in hearing from energetic University of Michigan graduate and undergraduate students who would like to learn more about our research. Prospective postdocs and students should contact Professor Grant directly.
             </p>
             <a href="{{ "/news/2016/04/18/open-positions/" | prepend: site.baseurl }}">Current Openings &rarr;</a>
 
