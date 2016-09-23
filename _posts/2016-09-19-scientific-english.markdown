@@ -58,6 +58,7 @@ Here are some common mistakes I see in student drafts (not including the common 
 - Incorrect punctuation of et al. (it is short for et alia, which is Latin for "and others," so there is a period after "al." but not after "et").
 - In common U.S. usage, commas and periods often go before closing quotation marks. (Note that this is different from British English punctuation, and probably most other languages.)
 - Single quotes should only be used to quote something within double quotes, e.g. "Bob said, `Me too!' " (Again, this is U.S. usage.) If you want to draw attention to or define a non-standard word usage, double quotes should be used.
+- Capitalized Names. The word Boolean should always be capitalized (in honor of George Boole). Same with Brownian, Eigen etc.  
 - Citations at the end of a sentence should be placed before the period McMains, 2005.
 - Incorrectly using "which" instead of "that" as the relative pronoun for a restrictive clause. 
 
@@ -69,10 +70,8 @@ Relative pronouns begin relative clauses. If the relative clause is a "restricti
  
 A non-restrictive relative clause, on the other hand, is not essential to the meaning of the sentence. It gives additional information, but the meaning of the rest of the sentence wouldn't change if it were to be omitted. It is typically set off from the rest of the sentence by commas: "My favorite book, which I re-read regularly, is Strunk's `Elements of Style.'" If you can put the relative clause in parentheses without changing the basic meaning of the sentence, it is a non-restrictive clause. Non-restrictive clauses begin with "which" (when they refer to things, that is -- if the relative clause refers to people, there are different relative pronouns to worry about, but I won't get into that). Note that a comma should precede the use of "which."
  
-Personally I think that when to use which is the most subtle rule of English grammar, and as such I may not always catch a misused "which" when I check your papers. But for readers who have internalized the rule, misuse diminishes the clarity of your writing. So if you haven't internalized the rule, make a special effort to consciously double-check that every "which" in your paper is really introducing a non-essential description, not an essential definition.
+Personally I think that when to use which is the most subtle rule of English grammar, and as such I may not always catch a misused "which" when I check your papers. But for readers who have internalized the rule, misuse diminishes the clarity of your writing. So if you haven't internalized the rule, make a special effort to consciously double-check that every "which" in your paper is really introducing a non-essential description, not an essential definition.  
 
-#### Capitalized Names 
-The word Boolean should always be capitalized (in honor of George Boole). Same with Brownian, Eigen etc.
 
 <br /> 
 
@@ -85,8 +84,8 @@ Dave Patterson also has great advice on not spelling out numbers less than ten i
 <br />
  
  
-### Confusing Words
-Affect vs Effect
+### Confusing Words (Affect vs Effect)
+
 Affect means to produce a change in something
 Effect is defined as a result of something or the ability to bring about a result
 
@@ -124,13 +123,9 @@ As a noun, an effect is the result of something: “The sunny weather had a huge
 > **Summery**: When using as a noun, if in doubt use **effect**!
 
 
-See: [http://www.confusingwords.com/](http://www.confusingwords.com/)
+<br />
 
-Also for commonly miss-spelled and miss-used words see
-
-[http://www.yourdictionary.com/index.php/pdf/articles/52.commonlymisspelledmisusedwords.pdf](http://www.yourdictionary.com/index.php/pdf/articles/52.commonlymisspelledmisusedwords.pdf)
-
-[http://grammar.yourdictionary.com/style-and-usage/affect-effect-grammar.html](http://grammar.yourdictionary.com/style-and-usage/affect-effect-grammar.html)
+Also for commonly [miss-spelled]](http://www.yourdictionary.com/index.php/pdf/articles/52.commonlymisspelledmisusedwords.pdf) and miss-used words see [http://www.confusingwords.com/](http://www.confusingwords.com/).
 
 
 
