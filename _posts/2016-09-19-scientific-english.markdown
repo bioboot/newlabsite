@@ -14,10 +14,10 @@ Use what was done (past), what is still true of the data (present) and don't mes
 
 <br />
 
-Published data are normally described in the present tense (i.e. as a fact) while your datra are normally past tense e.g.
+Published data are normally described in the present tense (i.e. as a fact) while your data are normally past tense e.g.
  
  
-> 'NGF is neuroprotective (Jones et al.)' but 'the the results presented here show that NGF was neuroroetective to PC12 cells'
+> 'Loop12 is highly flexible in the absence of ligand (Jones et al.)' but 'the the results presented here show that Loop12 is stabilized by both ligand and effector binding'
 
 
 <br />
@@ -36,15 +36,16 @@ Should read
 
 <br />
 
-Less is best, do not be repetitive let the data speak for themselves - do not labor the point. For example:
+**Less is best, do not be repetitive let the data speak for themselves - do not labor the point**. 
  
-Be quantative and percise, avoid terms such as 'most, many sometimes, occasionally' unless you give a value to it e.g.
+### Be quantitative and precise 
+Avoid terms such as 'most, many sometimes, occasionally' unless you give a value to it e.g.
  
 > 'most (%70) of cells responded'
 
 
 <br />
- 
+### These data not this data 
 Data are plural 'these data'
  
 
@@ -52,7 +53,7 @@ Data are plural 'these data'
  
  
 ### Common mistakes by students
-Here are some common mistakes I see in student papers (not including the common mistakes covered in [The Elements of Style](http://www.bartleby.com/141/)):
+Here are some common mistakes I see in student drafts (not including the common mistakes covered in [The Elements of Style](http://www.bartleby.com/141/)):
  
 - Incorrect punctuation of et al. (it is short for et alia, which is Latin for "and others," so there is a period after "al." but not after "et").
 - In common U.S. usage, commas and periods often go before closing quotation marks. (Note that this is different from British English punctuation, and probably most other languages.)
@@ -69,9 +70,13 @@ Relative pronouns begin relative clauses. If the relative clause is a "restricti
 A non-restrictive relative clause, on the other hand, is not essential to the meaning of the sentence. It gives additional information, but the meaning of the rest of the sentence wouldn't change if it were to be omitted. It is typically set off from the rest of the sentence by commas: "My favorite book, which I re-read regularly, is Strunk's `Elements of Style.'" If you can put the relative clause in parentheses without changing the basic meaning of the sentence, it is a non-restrictive clause. Non-restrictive clauses begin with "which" (when they refer to things, that is -- if the relative clause refers to people, there are different relative pronouns to worry about, but I won't get into that). Note that a comma should precede the use of "which."
  
 Personally I think that when to use which is the most subtle rule of English grammar, and as such I may not always catch a misused "which" when I check your papers. But for readers who have internalized the rule, misuse diminishes the clarity of your writing. So if you haven't internalized the rule, make a special effort to consciously double-check that every "which" in your paper is really introducing a non-essential description, not an essential definition.
- 
+
+#### Capitalized Names 
 The word Boolean should always be capitalized (in honor of George Boole). Same with Brownian, Eigen etc.
- 
+
+<br /> 
+
+#### Spelling out numbers 
 Dave Patterson also has great advice on not spelling out numbers less than ten if the reader will be doing arithmetic with them, as well as other useful tips on his page on common errors in [grad student writing](https://people.eecs.berkeley.edu/~pattrsn/talks/writingtips.html).
 
 > "The general rule of thumb is to spell out one to ten and use numbers for numbers for 11 and up. However, I find its much better to consistently use numbers when the reader might naturally compare or do arithmetic with the numbers with a sentence or a paragraph. For example, " The 8-processor case (model 370) needs only 4 computers to hold 32 processors. " Blindly following the rule of thumb would change the sentence to " The eight-processor case (model 370) needs only four computers to hold 32 processors. " Its easier to read and understand we use numbers (8*4=32) instead of words (eight*four=32)".
@@ -96,14 +101,37 @@ In summary:
 - effect - a result; being in operation (nouns); to make happen (verb)
  
 More examples:  
-Self-concept affects learning.1
+Self-concept affects learning.
 She affected intellectualism by wearing glasses and using long words
 Her affect is always sour in the morning.
 One effect of lunar gravity is tides.
 The new state income tax was in effect last fall.
 The president effected a new policy on international trade.
-Notes	1
+
+Note:
 Most often affect is used as a verb and effect is used as a noun. Something that affects you will have an effect on you.
- 
-See: http://www.confusingwords.com/
+
+If in doubt use effect!
+
+However, to make these words even more confusing than they already are, both can be used as either a noun or a verb. 
+
+Let’s start with the verbs. Affect means to influence something or someone; effect means to accomplish something. 
+
+“Your job was affected by the organizational restructuring” but “These changes will be effected on Monday.” 
+
+As a noun, an effect is the result of something: “The sunny weather had a huge effect on sales.” **It’s almost always the right choice** because the noun affect refers to an emotional state and is rarely used outside of psychological circles: “The patient’s affect was flat.”
+
+> **Summery**: When using as a noun, if in doubt use **effect**!
+
+
+See: [http://www.confusingwords.com/](http://www.confusingwords.com/)
+
+Also for commonly miss-spelled and miss-used words see
+
+[http://www.yourdictionary.com/index.php/pdf/articles/52.commonlymisspelledmisusedwords.pdf](http://www.yourdictionary.com/index.php/pdf/articles/52.commonlymisspelledmisusedwords.pdf)
+
+[http://grammar.yourdictionary.com/style-and-usage/affect-effect-grammar.html](http://grammar.yourdictionary.com/style-and-usage/affect-effect-grammar.html)
+
+
+
  
