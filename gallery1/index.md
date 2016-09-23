@@ -42,69 +42,69 @@ A brief sampling of [images](#image) and [animations](#movie) arising from our r
   <br /><br />
   -->
 
-  <iframe src="https://player.vimeo.com/video/10426396?loop=1&byline=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/10426396?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/10426396">Ras accelerated molecular dynamics simulation</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/27214521?loop=1&byline=0" width="640" height="188" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/27214521?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="188" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/27214521">Integrated Biomolecular Trajectory Analysis with Bio3D</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/33052467?loop=1&byline=0" width="640" height="292" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  <iframe src="https://player.vimeo.com/video/33052467?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="292" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
   </iframe>
   <p><a href="https://vimeo.com/33052467">Surface mapped electrostatic potentials of the kinesin family</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/176062431?loop=1&byline=0" width="640" height="794" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  <iframe src="https://player.vimeo.com/video/176062431?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="794" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
   </iframe>
   <p><a href="https://vimeo.com/176062431">Kinesin-1 electrostatic features upon nucleotide cycling</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/32016374?loop=1&byline=0" width="640" height="676" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/32016374?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="676" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/32016374">Rab GTPases</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/60216336?loop=1&byline=0" width="640" height="726" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/60216336?loop=1&color=ffffff&title=0&byline=0&portrait=0" width="640" height="726" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/60216336">Kinesin structure ensemble classified</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/24146793?loop=1&byline=0" width="640" height="328" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/24146793?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="328" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/24146793">Ras ensemble fragment mapping</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/17350409?loop=1&byline=0" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/17350409?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/17350409">Computational Drug Screening</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/10765434?loop=1&byline=0" width="640" height="384" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/10765434?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="384" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/10765434">Proline racemase from T. cruzi</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/16893643?loop=1&byline=0" width="640" height="584" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/16893643?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="584" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/16893643">Kinesin-Tubulin Association With Brownian Dynamics</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/5239966?loop=1&byline=0" width="640" height="248" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/5239966?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="248" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/5239966">Kinesin electrostatics</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/10537639?loop=1&byline=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/10537639?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/10537639">Microtubule Electrostatics</a>.</p>
 
 <br /><br />
 
-  <iframe src="https://player.vimeo.com/video/15853775?loop=1&byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/15853775?loop=1&color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/15853775">MTBD-tubulin encounter complexes from BD simulation</a>.</p>
 
   </center>
