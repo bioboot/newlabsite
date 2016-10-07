@@ -30,7 +30,7 @@ The molecular motors and switches that we focus on comprise a set of related nuc
 **Our recent findings on these systems include how to rationally engineer faster velocity longer running molecular motors and how to both allosterically activate and inhibit molecular switches that are malfunctioning in more than 20% of all human cancers.**
 
 
-<a href="/docs/usage/">Read more &rarr;</a>
+<a href="{{ "/news/" | prepend: site.baseurl }}">Read more &rarr;</a>
 
 <br/>
 <a name="bioinf"></a>

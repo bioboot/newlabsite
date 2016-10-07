@@ -30,9 +30,9 @@ See the [student feedback for the 2015 class](https://docs.google.com/forms/d/1v
 ### BIOINF-575: [Programming Laboratory in Bioinformatics](https://medicine.umich.edu/dept/dcmb/education/course-descriptions#bioinf-575-programming-laboratory-in-bioinformatics) 
 *BIOINF575* introduces general computer programming, relational databases, and statistical programming as tools to solve problems in bioinformatics data analysis. I currently teach five sessions in this course covering:
 
-- [Reproducible research and version control systems]({{ site.baseurl }}//teaching/material/01_git_intro_bioinf575_w16-large.pdf), 
-- [Social coding best practices with GitHub and BitBucket]({{ site.baseurl }}//teaching/material/02_github_intro_bioinf575_w16.pdf), 
-- [Introduction to the R language and environment for data analysis]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf),
+- [Reproducible research and version control systems]({{ site.baseurl }}/teaching/material/01_git_intro_bioinf575_w16-large.pdf), 
+- [Social coding best practices with GitHub and BitBucket]({{ site.baseurl }}/teaching/material/02_github_intro_bioinf575_w16.pdf), 
+- [Introduction to the R language and environment for data analysis]({{ site.baseurl }}/teaching/material/Bio3D_tutoral1.pdf),
 - [R language basics and the RStudio IDE](https://bioboot.github.io/web-2016/class-material/slides_day3-1_R.pdf),  
 - [Working with R packages](https://bioboot.github.io/web-2016/class-material/slides_day3-4_R.pdf).  
 
@@ -46,14 +46,14 @@ This one week hands-on workshop for graduate students and faculty introduced cut
 ### BIOINF-527: [Introduction to Bioinformatics](https://medicine.umich.edu/dept/dcmb/education/course-descriptions#bioinf-527-introduction-to-bioinformatics-computational-biology)
 I guest lecture for *BIOINF527* covering the following topics:
 
-- [Introduction to Structural Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
-- [Protein Structure Visualization and Small Molecule Docking]({{ site.baseurl }}//teaching/material/Structural_Bioinformatcs_Lab.pdf) (PDF) 
-- [Advanced Database Searching]({{ site.baseurl }}//teaching/material/Lecture_13_HMMs.pdf) (PDF) 
-- [Sequence Patterns, Profiles and Hidden Markov Models]({{ site.baseurl }}//teaching/material/Barry_Lecture14_HMMs.pdf) (PDF)  
-- [Molecular Bioinformatics (2013)]({{ site.baseurl }}//teaching/material/Intro_Structural_Bioinformatics_Barry.pdf) (PDF) 
-- [Introduction to Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-1_525_W16_small.pdf) (PDF)
-- [Pairwise Sequence Alignment and Database Searching]({{ site.baseurl }}//teaching/material/lecture1-2_525_W16_small.pdf) (PDF)
-- [Introduction to Structural Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
+- [Introduction to Structural Bioinformatics]({{ site.baseurl }}/teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
+- [Protein Structure Visualization and Small Molecule Docking]({{ site.baseurl }}/teaching/material/Structural_Bioinformatcs_Lab.pdf) (PDF) 
+- [Advanced Database Searching]({{ site.baseurl }}/teaching/material/Lecture_13_HMMs.pdf) (PDF) 
+- [Sequence Patterns, Profiles and Hidden Markov Models]({{ site.baseurl }}/teaching/material/Barry_Lecture14_HMMs.pdf) (PDF)  
+- [Molecular Bioinformatics (2013)]({{ site.baseurl }}/teaching/material/Intro_Structural_Bioinformatics_Barry.pdf) (PDF) 
+- [Introduction to Bioinformatics]({{ site.baseurl }}/teaching/material/lecture1-1_525_W16_small.pdf) (PDF)
+- [Pairwise Sequence Alignment and Database Searching]({{ site.baseurl }}/teaching/material/lecture1-2_525_W16_small.pdf) (PDF)
+- [Introduction to Structural Bioinformatics]({{ site.baseurl }}/teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
 
 <br/>
 [![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
@@ -92,9 +92,9 @@ There are also weekly homework assignments and regular quizzes within each video
 
 <br/>
 
-### BIOINF-800: [Computational Biophysics & Structure Based Drug Discovery]({{ site.baseurl }}//teaching/material/example_new_course.pdf) 
+### BIOINF-800: [Computational Biophysics & Structure Based Drug Discovery]({{ site.baseurl }}/teaching/material/example_new_course.pdf) 
 This graduate-level seminar course will walk students through the major techniques of biomolecular simulation and computer-aided drug design. This will include application of massively parallel molecular dynamics simulations and associated analysis techniques to enable new discoveries within the vast quantity of digital data, such as finding new potential drug leads through virtual screening and small molecule docking. Lectures on course concepts will be closely combined with hands-on tutorials that allow the practical application of computational methods and statistical data analysis in a project-based format. Students will be granted access to the national supercomputers centers as well as local high performance computing cluster resources to run their simulations and analyze the resulting data.  
-[Read More >>]({{ site.baseurl }}//teaching/material/example_new_course.pdf)
+[Read More >>]({{ site.baseurl }}/teaching/material/example_new_course.pdf)
 
 
 <br/>
@@ -107,19 +107,19 @@ Below you will find previous course details along with links to select lecture s
 
 <br/>
 
-#### [Bio3D: Interactive Tools for Structural Bioinformatics]({{ site.baseurl }}//teaching/material/Barry_Bio3D_intro.pdf)
-Invited [lecture]({{ site.baseurl }}//teaching/material/Barry_Bio3D_intro.pdf) and hands-on [tutoral]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf) at the University of Bergen, Norway (Spring 2015). 
+#### [Bio3D: Interactive Tools for Structural Bioinformatics]({{ site.baseurl }}/teaching/material/Barry_Bio3D_intro.pdf)
+Invited [lecture]({{ site.baseurl }}/teaching/material/Barry_Bio3D_intro.pdf) and hands-on [tutoral]({{ site.baseurl }}/teaching/material/Bio3D_tutoral1.pdf) at the University of Bergen, Norway (Spring 2015). 
 
 <br/>
 
-#### [Structural Bioinformatics]({{ site.baseurl }}//teaching/material/Barry_StruBioinf_v2_15.pdf) (PDF)
+#### [Structural Bioinformatics]({{ site.baseurl }}/teaching/material/Barry_StruBioinf_v2_15.pdf) (PDF)
 
 #### [Advances in Molecular Dynamics of Biomolecules](http://ccbb.jnu.ac.in/advmdbio/)
 Four lectures with integrated lab sessions at JNU (Jawaharlal Nehru University) and University of Delhi, India. (Fall 2013).
 
 <br/>
 
-#### [RStudio Git and GitHub hands-on lecture]({{ site.baseurl }}//teaching/material/Git_R_summer_camp.pdf)
+#### [RStudio Git and GitHub hands-on lecture]({{ site.baseurl }}/teaching/material/Git_R_summer_camp.pdf)
 Summer camp for high-school students (miRcore) - 17 Aug 2016.
 
 <br/>
@@ -129,7 +129,7 @@ Natures Molecular Machines - Spring 2014.
 
 <br/>
 
-#### [Introduction to Molecular Motors]({{ site.baseurl }}//teaching/material/handout_motors_CSUSM_11.pdf)
+#### [Introduction to Molecular Motors]({{ site.baseurl }}/teaching/material/handout_motors_CSUSM_11.pdf)
 California State University, San Marcos, USA, 2011
 
 <br/>
@@ -144,7 +144,7 @@ National Biomedical Computation Resource Summer Institute, San Diego Supercomput
 
 <br/>
 
-#### [Protein Form and Function in Cytoskeletal Transport Systems]({{ site.baseurl }}//teaching/material/sanmarcos_motors.pdf)
+#### [Protein Form and Function in Cytoskeletal Transport Systems]({{ site.baseurl }}/teaching/material/sanmarcos_motors.pdf)
 California State University, San Marcos, USA, 2009
 University of California, San Diego, USA, 2008
 
@@ -155,6 +155,6 @@ CCPB training workshop, University of Nottingham, UK, 2007.
 
 <br/>
 
-Additional postgraduate level guest lectures on [**The R language**]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf), [**Why do we use UNIX?**]({{ site.baseurl }}//teaching/material/slides_day1-1_unix-motivation.pdf), [**working with UNIX**]({{ site.baseurl }}//teaching/material/slides_day1-1_unix-motivation.pdf), **Computational Chemistry**, **Biomolecular Structure**, **Chemical Equilibria**, and **Protein Form and Function**.
+Additional postgraduate level guest lectures on [**The R language**]({{ site.baseurl }}/teaching/material/Bio3D_tutoral1.pdf), [**Why do we use UNIX?**]({{ site.baseurl }}/teaching/material/slides_day1-1_unix-motivation.pdf), [**working with UNIX**]({{ site.baseurl }}/teaching/material/slides_day1-1_unix-motivation.pdf), **Computational Chemistry**, **Biomolecular Structure**, **Chemical Equilibria**, and **Protein Form and Function**.
 
 

@@ -18,8 +18,9 @@ collections:
 
 name: GrantLab • Computational Biophysics & Bioinformatics
 description: Computational Biophysics & Bioinformatics
-url: "http://bioboot.github.io/newlabsite/"
+#url: "http://bioboot.github.io/newlabsite/"
 #baseurl: "/newlabsite" # the subpath of your site, e.g. /blog/
+url: "http://thegrantlab.org/"
 baseurl: ""
 
 twitter:
