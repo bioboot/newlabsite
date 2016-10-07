@@ -14,6 +14,7 @@ Using this approach we have recently developed a new class of allosteric Ras & R
 Our research goals are to advance these efforts to further facilitate the fields of protein design and drug discovery.
 
 <br/>
+<a name="motors"></a>
 
 ### [Molecular Motors & Molecular Switches](#motors)
 
@@ -32,6 +33,7 @@ The molecular motors and switches that we focus on comprise a set of related nuc
 <a href="/docs/usage/">Read more &rarr;</a>
 
 <br/>
+<a name="bioinf"></a>
 
 ### [Methods for Structural Bioinformatics & Computer Aided Drug Design](#bioinf)
 
@@ -52,6 +54,7 @@ Motivated by the wide utility and use of Bio3D, together with our own research q
 
 
 <br/>
+<a name="pubs"></a>
 
 ### [Recent Publications](#pubs)
 
