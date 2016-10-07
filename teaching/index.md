@@ -27,12 +27,14 @@ See the [student feedback for the 2015 class](https://docs.google.com/forms/d/1v
 
 <br/>
 
-### BIOINF-575: [Programming Laboratory in Bioinformatics](http://www.ccmb.med.umich.edu/node/41) 
-*BIOINF575* introduces general computer programming, relational databases, and statistical programming as tools to solve problems in bioinformatics data analysis. I currently teach four sessions in this course covering:
+### BIOINF-575: [Programming Laboratory in Bioinformatics](https://medicine.umich.edu/dept/dcmb/education/course-descriptions#bioinf-575-programming-laboratory-in-bioinformatics) 
+*BIOINF575* introduces general computer programming, relational databases, and statistical programming as tools to solve problems in bioinformatics data analysis. I currently teach five sessions in this course covering:
 
 - [Reproducible research and version control systems]({{ site.baseurl }}//teaching/material/01_git_intro_bioinf575_w16-large.pdf), 
-- [Social coding best practices with GitHub and BitBucket]({{ site.baseurl }}//teaching/material/02_github_intro_bioinf575_w16.pdf) 
-- [Introduction to the R language and environment for data analysis]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf).
+- [Social coding best practices with GitHub and BitBucket]({{ site.baseurl }}//teaching/material/02_github_intro_bioinf575_w16.pdf), 
+- [Introduction to the R language and environment for data analysis]({{ site.baseurl }}//teaching/material/Bio3D_tutoral1.pdf),
+- [R language basics and the RStudio IDE](https://bioboot.github.io/web-2016/class-material/slides_day3-1_R.pdf),  
+- [Working with R packages](https://bioboot.github.io/web-2016/class-material/slides_day3-4_R.pdf).  
 
 <br/>
 
@@ -41,7 +43,7 @@ This one week hands-on workshop for graduate students and faculty introduced cut
 
 <br/>
 
-### BIOINF-527: [Introduction to Bioinformatics](http://www.ccmb.med.umich.edu/node/40)
+### BIOINF-527: [Introduction to Bioinformatics](https://medicine.umich.edu/dept/dcmb/education/course-descriptions#bioinf-527-introduction-to-bioinformatics-computational-biology)
 I guest lecture for *BIOINF527* covering the following topics:
 
 - [Introduction to Structural Bioinformatics]({{ site.baseurl }}//teaching/material/lecture1-3_525_W16_small.pdf) (PDF)
