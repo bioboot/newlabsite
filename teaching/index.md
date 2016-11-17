@@ -108,7 +108,7 @@ Below you will find previous course details along with links to select lecture s
 <br/>
 
 #### [Bio3D: Interactive Tools for Structural Bioinformatics]({{ site.baseurl }}/teaching/material/Barry_Bio3D_intro.pdf)
-Invited [lecture]({{ site.baseurl }}/teaching/material/Barry_Bio3D_intro.pdf) and hands-on [tutoral]({{ site.baseurl }}/teaching/material/Bio3D_tutoral1.pdf) at the University of Bergen, Norway (Spring 2015). 
+Invited [lecture]({{ site.baseurl }}/teaching/material/Barry_Bio3D_intro.pdf) and hands-on [tutorial]({{ site.baseurl }}/teaching/material/Bio3D_tutoral1.pdf) at the University of Bergen, Norway (Spring 2015). 
 
 <br/>
 
