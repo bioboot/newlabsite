@@ -104,7 +104,7 @@ title: Recent Publications
 <br/>
 <div class="note">
   <h5>Pre Michigan Publications</h5>
-  <p>The following publications where from UCSD</p>
+  <p>The following publications are from UCSD</p>
 </div>
 
 

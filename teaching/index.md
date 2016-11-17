@@ -59,6 +59,13 @@ I guest lecture for *BIOINF527* covering the following topics:
 [![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
 
 <br/>
+
+### GIDAS: [High School Student Instruction and Outreach](http://www.mircore.org/gidas/)
+
+I currently serve as an instructor and mentor for both the annual [High School Genes In Disease and Symptoms (GIDAS)](http://www.mircore.org/gidas/) club and the [Ann Arbor Computational Biology Camp](http://www.mircore.org/gidas/2016-summer-camp/2016-r-camp/) (for 9th-12th grade students). GIDAS club activities run from August through June with the purpose of having high school students both learn and participate in computational biology research. Through GIDAS, I have presented lectures to groups of 25-40 selected high school students from the Ann Arbor, Detroit and Flint areas. These lectures introduced genomics and bioinformatics concepts and were followed with small group based research projects exploring public gene expression data sets. I mentored students in the use of online bioinformatics tools and databases, as well as how to formulate their hypotheses and present their results in poster and oral formats. In the Ann Arbor Computational Biology Camps for high schoolers, I have taught week long summer sessions to over 50 students in UNIX computing and data analysis with the R programing language. An important component of these camps is their intended amplifying effect, with attendees instructed to disseminate what they learn to their school peers via their school’s GIDAS club.  
+
+<br/>
+
 <div class="note">
   <h5>Future Courses</h5>
   <p>The following new courses are coming soon.</p>
