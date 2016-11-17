@@ -58,6 +58,20 @@ Motivated by the wide utility and use of Bio3D, together with our own research q
 
 ### [Recent Publications](#pubs)
 
+*   [Super-resolution structural analysis predicts environmental and synthetic estrogen activity]().  
+    Nwachukwu, Srinivasan, Bruno, Nowak, Wright, Minutolo, Erumbi, Izard, **Yao**,  **Grant**, Kojetin, Elemento, Katzenellenbogen, Nettles. (2016)  
+    _Cell Chemical Biology_ (2016) [_In Press_. ]  
+    ( Journal | PubMed | PDF )   
+
+<br/>
+
+*   [Online interactive analysis of protein structure ensembles with Bio3D-web](http://bioinformatics.oxfordjournals.org/content/early/2016/07/18/bioinformatics.btw482).  
+    Skjærven, **Jariwala**, **Yao**, **Grant**. (2016)  
+    _Bioinformatics_ (2016) [_In Press_. Epub ahead of print]  
+    ( [Journal](http://bioinformatics.oxfordjournals.org/content/early/2016/07/18/bioinformatics.btw482) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27423893?dopt=Abstract) | [PDF](http://bioinformatics.oxfordjournals.org/content/early/2016/07/18/bioinformatics.btw482.full.pdf+html) | [WebServer](http://thegrantlab.org/bio3d/webapps) )   
+
+<br/>
+
 *   [Rapid Characterization of Allosteric Networks with Ensemble Normal Mode Analysis](https://www.ncbi.nlm.nih.gov/pubmed/27056373).  
     Yao, Skjærven, **Grant**. (2016)  
     _J Phys Chem B._ 2016 Apr 20. [Epub ahead of print]  
