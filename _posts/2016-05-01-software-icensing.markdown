@@ -6,8 +6,7 @@ author: barry
 categories: [advise]
 ---
 
-
-The following article provides a good overview of licensing and licensing options from the perspective of scientists who also write code:
+The [choosealicense.com site](http://choosealicense.com/) can help you quickly chose a license for your digital content. For more detailed information the following article provides a good overview of licensing and licensing options from the perspective of scientists who write code:
 
 > Morin, A., Urban, J., and Sliz, P. [“A Quick Guide to Software Licensing for the Scientist-Programmer”](http://dx.doi.org/10.1371/journal.pcbi.1002598) PLoS Computational Biology 8(7) (2012): e1002598.
 
