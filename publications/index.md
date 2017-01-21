@@ -8,20 +8,25 @@ title: Recent Publications
 *   [Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells]().  
     Stender, Nwachukwu, Kastrata, Kim, Strid, Yakir, Srinivasan, Nowak, Izard, Erumbi, Carlson, Katzenellenbogen, **Yao**,  **Grant**, Leong, Lin, Frasor, Nettles, Glass. (2017)  
     _Molecular Cell_. [_In Press_.]  
-    ( Journal | PubMed | PDF )   
+
+<br/>
+
+*   [Investigating protein sequence-structure-dynamics relationships with Bio3D-web]().  
+    **Jariwala**, Skjærven, **Yao**,  **Grant**. (2017)  
+    _Journal of Visualized Experiments (JoVE)_. [_In Press_.]  
 
 <br/>
 
 *   [Computational and biochemical characterization of two partially overlapping interfaces and multiple weak-affinity K-Ras dimers](http://www.nature.com/articles/srep40109).  
     Prakash, Sayyed-Ahmad, Cho, Dolino, Chen, **Li**, **Grant**, Hancock, Gorfe. (2017)  
     _Scientific Reports_. 7, 40109 doi:10.1038/srep40109.  
-    ( [Journal](http://www.nature.com/articles/srep40109) | PubMed | [PDF](http://www.nature.com/articles/srep40109.pdf) )   
+    ( [Journal](http://www.nature.com/articles/srep40109) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5220301/) | [PDF](http://www.nature.com/articles/srep40109.pdf) )   
 
 <br/>
 
 *   [Systems structural biology analysis of ligand effects on ERα predicts cellular response to environmental estrogens and anti-hormone therapies](https://dx.doi.org/10.1016/j.chembiol.2016.11.014).  
-    Nwachukwu, Srinivasan, Bruno, Nowak, Wright, Minutolo, Erumbi, Izard, **Yao**,  **Grant**, Kojetin, Elemento, Katzenellenbogen, Nettles. (2016)  
-    _Cell Chemical Biology_.  [Epub ahead of print, Dec 16 2016]  
+    Nwachukwu, Srinivasan, Bruno, Nowak, Wright, Minutolo, Erumbi, Izard, **Yao**,  **Grant**, Kojetin, Elemento, Katzenellenbogen, Nettles. (2017)  
+    _Cell Chemical Biology_. 24(1), 35-45.   
     ( [Journal](https://dx.doi.org/10.1016/j.chembiol.2016.11.014) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28042045) | [PDF](https://dx.doi.org/10.1016/j.chembiol.2016.11.014) )   
 
 <br/>

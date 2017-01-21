@@ -25,7 +25,7 @@ A major portion of our work asks about the common and divergent molecular mechan
 
 <img src="{{ "/img/cell.jpg" | prepend: site.baseurl }}" alt="Example switches and motors" style="float:left;margin-right:20px;margin-top:15px;height:375px" >
 
-The molecular motors and switches that we focus on comprise a set of related nucleotide binding proteins that coordinate important cell processes including signaling, trafficking, transport, and protein synthesis. Our research aims to decipher the [structural dynamic mechanisms]() by which these fascinating natural nanomachines function and how their dysfunction is related to disease.  
+The molecular motors and switches that we focus on comprise a set of related nucleotide binding proteins that coordinate important cell processes including signaling, trafficking, transport, and protein synthesis. Our research aims to decipher the [structural dynamic mechanisms](http://thegrantlab.org/research/research_overview/) by which these fascinating natural nanomachines function and how their dysfunction is related to disease.  
 
 **Our recent findings on these systems include how to rationally engineer faster velocity longer running molecular motors and how to both allosterically activate and inhibit molecular switches that are malfunctioning in more than 20% of all human cancers.**
 
