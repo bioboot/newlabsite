@@ -5,7 +5,7 @@ title: Grant Lab People
 
 
 ![Xin-Qiu](http://thegrantlab.org/people/files/img_0013.jpg)  
-Xin-Qiu Yao,   
+[Xin-Qiu Yao](https://xinqyao.github.io),   
 Ph.D. Biomechanics and Medical Engineering, Peking University, China.  
 Postdoctoral Fellow  
 
