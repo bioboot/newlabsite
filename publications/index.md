@@ -5,15 +5,24 @@ title: Recent Publications
 
 <br/>
 
+*   [Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation]().  
+    **Yao**, Cato, Labudde, Beyett, Tesmer and **Grant**. (2017)  
+    _J Biol Chem._ [_In Press._]  
+
+<br/>
+
 *   [Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells]().  
     Stender, Nwachukwu, Kastrata, Kim, Strid, Yakir, Srinivasan, Nowak, Izard, Erumbi, Carlson, Katzenellenbogen, **Yao**,  **Grant**, Leong, Lin, Frasor, Nettles, Glass. (2017)  
-    _Molecular Cell_. [_In Press_.]  
+    _Molecular Cell_. 65(6), 1122-1135.  
+    ( [Journal](http://www.sciencedirect.com/science/article/pii/S1097276517301223) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28306507) | [PDF](http://ac.els-cdn.com/S1097276517301223/1-s2.0-S1097276517301223-main.pdf) )  
 
 <br/>
 
 *   [Investigating protein sequence-structure-dynamics relationships with Bio3D-web]().  
     **Jariwala**, Skjærven, **Yao**,  **Grant**. (2017)  
-    _Journal of Visualized Experiments (JoVE)_. [_In Press_.]  
+    _Journal of Visualized Experiments (JoVE)_. Jul 16;(125). doi: 10.3791/55640.    
+    ( [Journal](https://www.jove.com/video/55640/) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28745621) | [Video Article](https://www.jove.com/video/55640/investigating-protein-sequence-structure-dynamics-relationships-with) | [PDF](https://www.jove.com/pdf/55640/jove-protocol-55640-investigating-protein-sequence-structure-dynamics-relationships-with) )   
+
 
 <br/>
 

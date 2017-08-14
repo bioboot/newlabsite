@@ -5,6 +5,18 @@ title: Current Courses
 
 <br/>
 
+### BGGN-213: [Foundations of Bioinformatics](https://bioboot.github.io/bggn213_f17/) 
+
+Bioinformatics is driving the collection and analysis of big data in the biosciences. This new course is designed for bioscience graduate students at UCSD and provides a hands-on introduction to the computer-based analysis of genomic and biomolecular data.
+
+Major topics include: *Genome informatics*, *Structural informatics*, *Transcriptomics*, *UNIX for bioinformatics*, and *Bioinformatics data analysis with R*.  
+
+Students completing this course will be able to evaluate new genomic and biomolecular information using existing software and gain experience in combining bioinformatic approaches to answer specific biological questions.  
+
+A comprehensive [class website](https://bioboot.github.io/bggn213_f17/) containing all reading materials, screencasts and course notes will be maintained throughout the term.
+
+<br/>
+
 ### BIOINF-525: [Foundations of Bioinformatics and Systems Biology](http://bioboot.github.io/bioinf525_w16/) 
 
 I serve as lead instructor and course director for *Foundations of Bioinformatics and Systems Biology* (*BIOINF525*). This course provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins. Offered in the winter term each year BIOINF525 is currently comprised of three one credit modules covering:
