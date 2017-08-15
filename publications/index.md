@@ -5,20 +5,21 @@ title: Recent Publications
 
 <br/>
 
-*   [Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation]().  
+*   [Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract).  
     **Yao**, Cato, Labudde, Beyett, Tesmer and **Grant**. (2017)  
-    _J Biol Chem._ [_In Press._]  
+    _J Biol Chem._ [_In Press:_ Published online on August 14, 2017 as Manuscript M117.807461]  
+    ( [Journal](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) | PubMed | [PDF](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) )
 
 <br/>
 
-*   [Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells]().  
+*   [Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells](http://www.sciencedirect.com/science/article/pii/S1097276517301223).  
     Stender, Nwachukwu, Kastrata, Kim, Strid, Yakir, Srinivasan, Nowak, Izard, Erumbi, Carlson, Katzenellenbogen, **Yao**,  **Grant**, Leong, Lin, Frasor, Nettles, Glass. (2017)  
     _Molecular Cell_. 65(6), 1122-1135.  
     ( [Journal](http://www.sciencedirect.com/science/article/pii/S1097276517301223) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28306507) | [PDF](http://ac.els-cdn.com/S1097276517301223/1-s2.0-S1097276517301223-main.pdf) )  
 
 <br/>
 
-*   [Investigating protein sequence-structure-dynamics relationships with Bio3D-web]().  
+*   [Investigating protein sequence-structure-dynamics relationships with Bio3D-web](https://www.jove.com/video/55640/).  
     **Jariwala**, Skjærven, **Yao**,  **Grant**. (2017)  
     _Journal of Visualized Experiments (JoVE)_. Jul 16;(125). doi: 10.3791/55640.    
     ( [Journal](https://www.jove.com/video/55640/) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28745621) | [Video Article](https://www.jove.com/video/55640/investigating-protein-sequence-structure-dynamics-relationships-with) | [PDF](https://www.jove.com/pdf/55640/jove-protocol-55640-investigating-protein-sequence-structure-dynamics-relationships-with) )   
