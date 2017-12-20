@@ -5,10 +5,24 @@ title: Recent Publications
 
 <br/>
 
+*   [Altered chemomechanical coupling causes impaired motility of the kinesin-4 motors KIF27 and KIF7]().  
+    Yue, Blasius, Zhang, **Jariwala**, Clarence , Walker, **Grant**, Cochran and Verhey (2018)  
+    _J Cell Bio._ (**In Press** _201708179R_ )    
+    ( Journal | PubMed | PDF )  
+
+<br/>
+
 *   [Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract).  
     **Yao**, Cato, Labudde, Beyett, Tesmer and **Grant**. (2017)  
-    _J Biol Chem._ [_In Press:_ Published online on August 14, 2017 as Manuscript M117.807461]  
-    ( [Journal](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) | PubMed | [PDF](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) )
+    _J Biol Chem._ 292(39), 16032-16043  
+    ( [Journal](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28808053) | [PDF](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) )  
+
+<br/>
+
+*   [A structural model for microtubule minus-end recognition and protection by CAMSAP proteins](https://www.nature.com/articles/nsmb.3483).  
+    Atherton, Jiang, Stangier, Luo, Hua, Houben,  van Hooff, Joseph, **Scarabelli**, **Grant**, Roberts, Topf, Steinmetz, Baldus, Moores, Akhmanova (2017)  
+    _Nature Structural & Molecular Biology._ 24, 931–943.   
+    ( [Journal](https://www.nature.com/articles/nsmb.3483) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28991265) | PDF )
 
 <br/>
 
