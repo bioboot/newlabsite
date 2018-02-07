@@ -17,6 +17,30 @@ A comprehensive [class website](https://bioboot.github.io/bggn213_f17/) containi
 
 <br/>
 
+### BIMM-143: [Introduction to Bioinformatics](https://bioboot.github.io/bimm143_W18/) 
+
+Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research.  
+
+This upper division 4-unit course is designed for undergraduate biology majors and provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins. An integrated lecture/lab structure with hands-on exercises and small-scale projects emphasizes modern developments in genomics and proteomics.  
+
+Students completing this course will be able to apply leading existing bioinformatics tools to address biological questions. Our broader goal is to point towards perspectives that bioinformatics can expose for the integration and analysis of complex biological information. For further details please see our comprehensive [class website](https://bioboot.github.io/bimm143_W18/) detailing our complete list of course objectives, class specific learning goals, hands-on exercises, lecture slides and supporting material.
+
+<br/>
+
+### BIMM-194: [Genomics, Big Data and Human Health](https://bioboot.github.io/bimm194_W18/) 
+
+The Big Data revolution in Biology and health care is here. This 2-unit BIMM-194 course at UC San Diego reviews how recent advances, particularly in genomics, have the exciting potential to shift medicine from a reactive practice of treating symptoms and diseases, to one where disease risk is diagnosed early or even managed prior to onset.  
+
+Major topics include the latest developments in personalized medicine (a.k.a. precision medicine), disease screening, targeted immunotherapy based cancer treatments, pharmacogenomics, and how microbiome and epigenetic factors impact health.   
+
+A comprehensive [class website](https://bioboot.github.io/bimm194_W18/) containing all reading materials, blog posts, lecture slides and course notes will be maintained throughout the term.
+
+<br/>
+<div class="note">
+  <h5>University of Michigan Courses</h5>
+  <p>The following are my past courses from the University of Michigan, Ann Arbor.</p>
+</div>
+
 ### BIOINF-525: [Foundations of Bioinformatics and Systems Biology](http://bioboot.github.io/bioinf525_w16/) 
 
 I serve as lead instructor and course director for *Foundations of Bioinformatics and Systems Biology* (*BIOINF525*). This course provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins. Offered in the winter term each year BIOINF525 is currently comprised of three one credit modules covering:
