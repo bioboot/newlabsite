@@ -5,10 +5,17 @@ title: Recent Publications
 
 <br/>
 
-*   [Altered chemomechanical coupling causes impaired motility of the kinesin-4 motors KIF27 and KIF7]().  
+*   [A posttranslational modification of the mitotic kinesin Eg5 that enhances its mechanochemical coupling and alters its mitotic function](https://doi.org/10.1073/pnas.1718290115).  
+    Muretta, Reddy, **Scarabelli**, Thompson, **Jariwala**, Major, Venere, Rich,Willard, Thomas, Stumpff, **Grant**, Gross and Rosenfeld (2018)  
+    _PNAS._ 109, (**In Press** _published online ahead of print February 5, 2018_)    
+    ( [Journal](https://doi.org/10.1073/pnas.1718290115) | PubMed | [PDF](http://www.pnas.org/content/early/2018/01/31/1718290115.full.pdf) )  
+
+<br/>
+
+*   [Altered chemomechanical coupling causes impaired motility of the kinesin-4 motors KIF27 and KIF7](jcb.rupress.org/content/early/2018/01/18/jcb.201708179).  
     Yue, Blasius, Zhang, **Jariwala**, Clarence , Walker, **Grant**, Cochran and Verhey (2018)  
     _J Cell Bio._ (**In Press** _201708179R_ )    
-    ( Journal | PubMed | PDF )  
+    ( [Journal](jcb.rupress.org/content/early/2018/01/18/jcb.201708179) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29351996) | [PDF](http://jcb.rupress.org/content/early/2018/01/18/jcb.201708179.full-text.pdf) )  
 
 <br/>
 
