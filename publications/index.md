@@ -5,10 +5,17 @@ title: Recent Publications
 
 <br/>
 
+*   [Comparative structural dynamic analysis of GTPases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006364).  
+    Li, Yao and **Grant** (2018)  
+    _PLoS Comput Biol._ 14(11): e1006364.         
+    ( [Journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006364) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30412578) | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006364&type=printable) )  
+
+<br/>
+
 *   [A posttranslational modification of the mitotic kinesin Eg5 that enhances its mechanochemical coupling and alters its mitotic function](https://doi.org/10.1073/pnas.1718290115).  
     Muretta, Reddy, **Scarabelli**, Thompson, **Jariwala**, Major, Venere, Rich,Willard, Thomas, Stumpff, **Grant**, Gross and Rosenfeld (2018)  
-    _PNAS._ 109, (**In Press** _published online ahead of print February 5, 2018_)    
-    ( [Journal](https://doi.org/10.1073/pnas.1718290115) | PubMed | [PDF](http://www.pnas.org/content/early/2018/01/31/1718290115.full.pdf) )  
+    _PNAS._ 115(8): E1779-E1788    
+    ( [Journal](https://doi.org/10.1073/pnas.1718290115) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29432173) | [PDF](http://www.pnas.org/content/early/2018/01/31/1718290115.full.pdf) )  
 
 <br/>
 
