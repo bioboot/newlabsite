@@ -14,21 +14,21 @@ title: Recent Publications
 
 *   [A posttranslational modification of the mitotic kinesin Eg5 that enhances its mechanochemical coupling and alters its mitotic function](https://doi.org/10.1073/pnas.1718290115).  
     Muretta, Reddy, **Scarabelli**, Thompson, **Jariwala**, Major, Venere, Rich,Willard, Thomas, Stumpff, **Grant**, Gross and Rosenfeld (2018)  
-    _PNAS._ 115(8): E1779-E1788    
+    _PNAS._ 115(8): E1779-E1788.    
     ( [Journal](https://doi.org/10.1073/pnas.1718290115) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29432173) | [PDF](http://www.pnas.org/content/early/2018/01/31/1718290115.full.pdf) )  
 
 <br/>
 
-*   [Altered chemomechanical coupling causes impaired motility of the kinesin-4 motors KIF27 and KIF7](jcb.rupress.org/content/early/2018/01/18/jcb.201708179).  
+*   [Altered chemomechanical coupling causes impaired motility of the kinesin-4 motors KIF27 and KIF7](http://jcb.rupress.org/content/217/4/1319.long).  
     Yue, Blasius, Zhang, **Jariwala**, Clarence , Walker, **Grant**, Cochran and Verhey (2018)  
-    _J Cell Bio._ (**In Press** _201708179R_ )    
-    ( [Journal](jcb.rupress.org/content/early/2018/01/18/jcb.201708179) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29351996) | [PDF](http://jcb.rupress.org/content/early/2018/01/18/jcb.201708179.full-text.pdf) )  
+    _J Cell Bio._ 217(4):1319-1334.      
+    ( [Journal](http://jcb.rupress.org/content/217/4/1319.long) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29351996) | [PDF](http://jcb.rupress.org/content/jcb/217/4/1319.full.pdf) )  
 
 <br/>
 
 *   [Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract).  
     **Yao**, Cato, Labudde, Beyett, Tesmer and **Grant**. (2017)  
-    _J Biol Chem._ 292(39), 16032-16043  
+    _J Biol Chem._ 292(39), 16032-16043.  
     ( [Journal](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28808053) | [PDF](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) )  
 
 <br/>
