@@ -5,7 +5,7 @@ title: Current Courses
 
 <br/>
 
-### BGGN-213: [Foundations of Bioinformatics](https://bioboot.github.io/bggn213_f17/) 
+### BGGN-213: [Foundations of Bioinformatics](http://thegrantlab.org/bggn213/) 
 
 Bioinformatics is driving the collection and analysis of big data in the biosciences. This new course is designed for bioscience graduate students at UCSD and provides a hands-on introduction to the computer-based analysis of genomic and biomolecular data.
 
@@ -13,27 +13,33 @@ Major topics include: *Genome informatics*, *Structural informatics*, *Transcrip
 
 Students completing this course will be able to evaluate new genomic and biomolecular information using existing software and gain experience in combining bioinformatic approaches to answer specific biological questions.  
 
-A comprehensive [class website](https://bioboot.github.io/bggn213_f17/) containing all reading materials, screencasts and course notes will be maintained throughout the term.
+A comprehensive [class website](http://thegrantlab.org/bggn213/) containing all reading materials, screencasts and course notes will be maintained throughout the term.
 
 <br/>
 
-### BIMM-143: [Introduction to Bioinformatics](https://bioboot.github.io/bimm143_W18/) 
+### BIMM-143: [Introduction to Bioinformatics](http://thegrantlab.org/bimm143/) 
 
 Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research.  
 
 This upper division 4-unit course is designed for undergraduate biology majors and provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins. An integrated lecture/lab structure with hands-on exercises and small-scale projects emphasizes modern developments in genomics and proteomics.  
 
-Students completing this course will be able to apply leading existing bioinformatics tools to address biological questions. Our broader goal is to point towards perspectives that bioinformatics can expose for the integration and analysis of complex biological information. For further details please see our comprehensive [class website](https://bioboot.github.io/bimm143_W18/) detailing our complete list of course objectives, class specific learning goals, hands-on exercises, lecture slides and supporting material.
+Students completing this course will be able to apply leading existing bioinformatics tools to address biological questions. Our broader goal is to point towards perspectives that bioinformatics can expose for the integration and analysis of complex biological information. For further details please see our comprehensive [class website](http://thegrantlab.org/bimm143/) detailing our complete list of course objectives, class specific learning goals, hands-on exercises, lecture slides and supporting material.
 
 <br/>
 
 ### BIMM-194: [Genomics, Big Data and Human Health](https://bioboot.github.io/bimm194_W18/) 
 
-The Big Data revolution in Biology and health care is here. This 2-unit BIMM-194 course at UC San Diego reviews how recent advances, particularly in genomics, have the exciting potential to shift medicine from a reactive practice of treating symptoms and diseases, to one where disease risk is diagnosed early or even managed prior to onset.  
+The Big Data revolution in Biology and health care is here. This course reviews how recent advances, particularly in genomics, have the exciting potential to shift medicine from a reactive practice of treating symptoms and diseases, to one where disease risk is diagnosed early or even managed prior to onset.  
 
 Major topics include the latest developments in personalized medicine (a.k.a. precision medicine), disease screening, targeted immunotherapy based cancer treatments, pharmacogenomics, and how microbiome and epigenetic factors impact health.   
 
 A comprehensive [class website](https://bioboot.github.io/bimm194_W18/) containing all reading materials, blog posts, lecture slides and course notes will be maintained throughout the term.
+
+<br/>
+
+### BIMM-173: [Clinical Applications of Genomic Technologies]({{ site.baseurl }}/teaching/material/GrantGenomicHealthCourseProposal.pdf) (Coming Soon)  
+How are genomic technologies currently impacting the practice of medicine? What recent and future advances in genomic technologies have the potential for major clinical impact? What other ‘omes’ are useful for medicine? Can the transcriptome, proteome and metabolome be useful? How deeply can a person be analyzed? How can genomics inform on disease risks and what are the challenges associated with the use and management of genomic and related health information. We will also learn about the promise and hype of personalized medicine, major international genomics projects, and where genomic medicine could take us next.
+
 
 <br/>
 <div class="note">
