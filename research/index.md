@@ -59,90 +59,86 @@ Motivated by the wide utility and use of Bio3D, together with our own research q
 ### [Recent Publications](#pubs)
 
 
+*   [Neck linker docking is critical for Kinesin- 1 force generation in cells but at a cost to motor speed and processivity](https://elifesciences.org/articles/44146).  
+    Budaitis, **Jariwala**, Reinemann, Schimert, **Scarabelli**, **Grant**, Sept, Lang and Verhey (2019)  
+    _eLife_ 8: e44146. DOI: https://doi.org/10.7554/eLife.44146
+    _PLoS Comput Biol._ 14(11): e1006364.         
+    ( [In Press](https://elifesciences.org/articles/44146) )  
 
-*   [Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells]().  
+<br/>
+
+*   [Comparative protein structure analysis with Bio3D-web]().  
+    **Grant**, Skjærven and Yao (2019)  
+    _Methods in Molecular Biology_ **In Press**.         
+    ( Journal | PubMed | PDF )  
+
+<br/>
+
+*   [Comparative structural dynamic analysis of GTPases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006364).  
+    Li, Yao and **Grant** (2018)  
+    _PLoS Comput Biol._ 14(11): e1006364.         
+    ( [Journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006364) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30412578) | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006364&type=printable) )  
+
+<br/>
+
+*   [A posttranslational modification of the mitotic kinesin Eg5 that enhances its mechanochemical coupling and alters its mitotic function](https://doi.org/10.1073/pnas.1718290115).  
+    Muretta, Reddy, **Scarabelli**, Thompson, **Jariwala**, Major, Venere, Rich,Willard, Thomas, Stumpff, **Grant**, Gross and Rosenfeld (2018)  
+    _PNAS._ 115(8): E1779-E1788.    
+    ( [Journal](https://doi.org/10.1073/pnas.1718290115) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29432173) | [PDF](http://www.pnas.org/content/early/2018/01/31/1718290115.full.pdf) )  
+
+<br/>
+
+*   [Altered chemomechanical coupling causes impaired motility of the kinesin-4 motors KIF27 and KIF7](http://jcb.rupress.org/content/217/4/1319.long).  
+    Yue, Blasius, Zhang, **Jariwala**, Clarence , Walker, **Grant**, Cochran and Verhey (2018)  
+    _J Cell Bio._ 217(4):1319-1334.      
+    ( [Journal](http://jcb.rupress.org/content/217/4/1319.long) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29351996) | [PDF](http://jcb.rupress.org/content/jcb/217/4/1319.full.pdf) )  
+
+<br/>
+
+*   [Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract).  
+    **Yao**, Cato, Labudde, Beyett, Tesmer and **Grant**. (2017)  
+    _J Biol Chem._ 292(39), 16032-16043.  
+    ( [Journal](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28808053) | [PDF](http://www.jbc.org/content/early/2017/08/14/jbc.M117.807461.abstract) )  
+
+<br/>
+
+*   [A structural model for microtubule minus-end recognition and protection by CAMSAP proteins](https://www.nature.com/articles/nsmb.3483).  
+    Atherton, Jiang, Stangier, Luo, Hua, Houben,  van Hooff, Joseph, **Scarabelli**, **Grant**, Roberts, Topf, Steinmetz, Baldus, Moores, Akhmanova (2017)  
+    _Nature Structural & Molecular Biology._ 24, 931–943.   
+    ( [Journal](https://www.nature.com/articles/nsmb.3483) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28991265) | PDF )
+
+<br/>
+
+*   [Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells](http://www.sciencedirect.com/science/article/pii/S1097276517301223).  
     Stender, Nwachukwu, Kastrata, Kim, Strid, Yakir, Srinivasan, Nowak, Izard, Erumbi, Carlson, Katzenellenbogen, **Yao**,  **Grant**, Leong, Lin, Frasor, Nettles, Glass. (2017)  
-    _Molecular Cell_. [_In Press_.]  
-    ( Journal | PubMed | PDF )   
+    _Molecular Cell_. 65(6), 1122-1135.  
+    ( [Journal](http://www.sciencedirect.com/science/article/pii/S1097276517301223) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28306507) | [PDF](http://ac.els-cdn.com/S1097276517301223/1-s2.0-S1097276517301223-main.pdf) )  
+
+<br/>
+
+*   [Investigating protein sequence-structure-dynamics relationships with Bio3D-web](https://www.jove.com/video/55640/).  
+    **Jariwala**, Skjærven, **Yao**,  **Grant**. (2017)  
+    _Journal of Visualized Experiments (JoVE)_. Jul 16;(125). doi: 10.3791/55640.    
+    ( [Journal](https://www.jove.com/video/55640/) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28745621) | [Video Article](https://www.jove.com/video/55640/investigating-protein-sequence-structure-dynamics-relationships-with) | [PDF](https://www.jove.com/pdf/55640/jove-protocol-55640-investigating-protein-sequence-structure-dynamics-relationships-with) )   
+
 
 <br/>
 
 *   [Computational and biochemical characterization of two partially overlapping interfaces and multiple weak-affinity K-Ras dimers](http://www.nature.com/articles/srep40109).  
     Prakash, Sayyed-Ahmad, Cho, Dolino, Chen, **Li**, **Grant**, Hancock, Gorfe. (2017)  
     _Scientific Reports_. 7, 40109 doi:10.1038/srep40109.  
-    ( [Journal](http://www.nature.com/articles/srep40109) | PubMed | [PDF](http://www.nature.com/articles/srep40109.pdf) )   
+    ( [Journal](http://www.nature.com/articles/srep40109) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5220301/) | [PDF](http://www.nature.com/articles/srep40109.pdf) )   
 
 <br/>
 
 *   [Systems structural biology analysis of ligand effects on ERα predicts cellular response to environmental estrogens and anti-hormone therapies](https://dx.doi.org/10.1016/j.chembiol.2016.11.014).  
-    Nwachukwu, Srinivasan, Bruno, Nowak, Wright, Minutolo, Erumbi, Izard, **Yao**,  **Grant**, Kojetin, Elemento, Katzenellenbogen, Nettles. (2016)  
-    _Cell Chemical Biology_.  [Epub ahead of print, Dec 16 2016]  
+    Nwachukwu, Srinivasan, Bruno, Nowak, Wright, Minutolo, Erumbi, Izard, **Yao**,  **Grant**, Kojetin, Elemento, Katzenellenbogen, Nettles. (2017)  
+    _Cell Chemical Biology_. 24(1), 35-45.   
     ( [Journal](https://dx.doi.org/10.1016/j.chembiol.2016.11.014) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28042045) | [PDF](https://dx.doi.org/10.1016/j.chembiol.2016.11.014) )   
 
 <br/>
 
-*   [Online interactive analysis of protein structure ensembles with Bio3D-web](http://bioinformatics.oxfordjournals.org/content/early/2016/07/18/bioinformatics.btw482).  
-    Skjærven, **Jariwala**, **Yao**, **Grant**. (2016)  
-    _Bioinformatics_. 32(22), 3510-3512.  
-    ( [Journal](http://bioinformatics.oxfordjournals.org/content/early/2016/07/18/bioinformatics.btw482) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27423893?dopt=Abstract) | [PDF](http://bioinformatics.oxfordjournals.org/content/early/2016/07/18/bioinformatics.btw482.full.pdf+html) | [WebServer](http://thegrantlab.org/bio3d/webapps) )   
 
-<br/>
-
-*   [Rapid characterization of allosteric networks with ensemble normal mode analysis](https://www.ncbi.nlm.nih.gov/pubmed/27056373).  
-    **Yao**, Skjærven, **Grant**. (2016)  
-    _J Phys Chem B._ 120(33), 8276-88.  
-    ( [Journal](http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01991) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27056373) | [PDF](http://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.6b01991) )   
-
-<br/>
-
-*   [Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins](http://www.ncbi.nlm.nih.gov/pubmed/26703464).  
-    Yao, Malik, Griggs, Skjaerven, Traynor, Sivaramakrishnan, **Grant**. (2016)  
-    _J Biol Chem._ 291(9), 4742-4753.  
-    ( [Journal](http://www.jbc.org/content/291/9/4742) | [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26703464?dopt=Abstract) | [PDF](http://www.jbc.org/content/291/9/4742.full.pdf) )   
-
-<br/>
-
-*   [Mapping the processivity determinants of the kinesin-3 motor domain](https://www.ncbi.nlm.nih.gov/pubmed/26488644).  
-    Scarabelli, Soppina, Yao, Atherton, Moores, Verhey, **Grant**. (2015)  
-    *Biophys J.* 109, 1537–1540.  
-    ( [Journal](http://www.sciencedirect.com/science/article/pii/S0006349515008620) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26488644) | [PDF](http://www.sciencedirect.com/science/article/pii/S0006349515008620/pdfft?md5=ef9b825e43ee7400e983e52047c2c3cb&pid=1-s2.0-S0006349515008620-main.pdf) )  
-
-<br/>
-
-*   [Enrichment of druggable conformations from apo protein structures using cosolvent-accelerated molecular dynamics](https://www.ncbi.nlm.nih.gov/pubmed/25906084).  
-    Kalenkiewicz, **Grant**, Yang. (2015)  
-    *Biology.* 4, 344-366  
-    ( [Journal](http://www.mdpi.com/2079-7737/4/2/344) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25906084) | [PDF](http://www.mdpi.com/2079-7737/4/2/344/pdf) )  
-
-<br/>
-
-*   [Integrating protein structural dynamics and evolutionary analysis with Bio3D](https://www.ncbi.nlm.nih.gov/pubmed/25491031).  
-    Skjærven, Yao, Scarabelli, **Grant**. (2014)  
-    *BMC Bioinformatics.* 15, 399  
-    ( [Journal](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0399-6) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25491031) | [PDF](http://download.springer.com/static/pdf/978/art%253A10.1186%252Fs12859-014-0399-6.pdf?originUrl=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticle%2F10.1186%2Fs12859-014-0399-6&token2=exp=1462210115~acl=%2Fstatic%2Fpdf%2F978%2Fart%25253A10.1186%25252Fs12859-014-0399-6.pdf*~hmac=fd043fd487d83e435068b0386adb21c143fc83bfee4a16f83303547a3bd16253) )  
-
-<br/>
-
-*   [Kinesin-5 allosteric inhibitors uncouple the dynamics of nucleotide,  microtubule and neck-linker binding sites](https://www.ncbi.nlm.nih.gov/pubmed/25418105).  
-    Scarabelli, **Grant**. (2014)  
-    *Biophys J.* 107, 2204–2213  
-    ( [Journal](http://www.sciencedirect.com/science/article/pii/S0006349514009588) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25418105) | [PDF](http://www.sciencedirect.com/science/article/pii/S0006349514009588/pdfft?md5=8a404879535cfbf464ce2e8610472011&pid=1-s2.0-S0006349514009588-main.pdf) )  
-
-<br/>
-
-*   [Mapping the structural and dynamical features of kinesin motor domains](https://www.ncbi.nlm.nih.gov/pubmed/24244137).  
-    Scarabelli, **Grant**. (2013)  
-    *PLoS Comput Biol.* 9, e1003329  
-    ( [Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003329) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24244137) | [PDF](http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1003329.PDF) )   
-
-<br/>
-
-*   [Domain opening and dynamic coupling in the alpha subunit of heterotrimeric G proteins](http://www.ncbi.nlm.nih.gov/pubmed/23870276).  
-    Yao, **Grant**. (2013)  
-    *Biophys J.* 105, L08–L10  
-    ( [Journal](http://www.sciencedirect.com/science/article/pii/S0006349513006802) | [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23870276) | [PDF](http://www.sciencedirect.com/science/article/pii/S0006349513006802/pdfft?md5=a387ba75bf94b47d96e3dcce464c2740&pid=1-s2.0-S0006349513006802-main.pdf) )  
-
-<br/>
 
 Access our <a href="/publications/">complete publication list &rarr;</a>
 

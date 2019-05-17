@@ -5,6 +5,21 @@ title: Recent Publications
 
 <br/>
 
+*   [Neck linker docking is critical for Kinesin- 1 force generation in cells but at a cost to motor speed and processivity](https://elifesciences.org/articles/44146).  
+    Budaitis, **Jariwala**, Reinemann, Schimert, **Scarabelli**, **Grant**, Sept, Lang and Verhey (2019)  
+    _eLife_ 8: e44146. DOI: https://doi.org/10.7554/eLife.44146
+    _PLoS Comput Biol._ 14(11): e1006364.         
+    ( [In Press](https://elifesciences.org/articles/44146) )  
+
+<br/>
+
+*   [Comparative protein structure analysis with Bio3D-web]().  
+    **Grant**, Skjærven and Yao (2019)  
+    _Methods in Molecular Biology_ **In Press**.         
+    ( Journal | PubMed | PDF )  
+
+<br/>
+
 *   [Comparative structural dynamic analysis of GTPases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006364).  
     Li, Yao and **Grant** (2018)  
     _PLoS Comput Biol._ 14(11): e1006364.         
